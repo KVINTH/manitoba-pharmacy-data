@@ -1,0 +1,4776 @@
+{
+  "0": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 775-9518",
+      "name": "9 to 9 Care Pharmacy ",
+      "license": " 34771",
+      "address": "690 Notre Dame Avenue",
+      "postal": "R3E 0L7"
+    }
+  },
+  "1": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 589-5133",
+      "name": "Aberdeen Pharmacy ",
+      "license": " 32971",
+      "address": "1553 Arlington Street",
+      "postal": "R2X 1V3"
+    }
+  },
+  "2": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(855) 651-4935",
+      "name": "ACS Pharmacy ",
+      "license": " 34939",
+      "address": "1332 Clifton Street",
+      "postal": "R3E 2V2"
+    }
+  },
+  "3": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 772-4900",
+      "name": "Al-Shifa Pharmacy ",
+      "license": " 31723",
+      "address": "639 Portage Avenue",
+      "postal": "R3B 2G4"
+    }
+  },
+  "4": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 231-3713",
+      "name": "Altec Drug Services ",
+      "license": " 33275",
+      "address": "Unit 5B - 851 Lagimodiere Blvd.",
+      "postal": "R2J 3K4"
+    }
+  },
+  "5": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Altona",
+      "fax": "(204) 324-1299",
+      "name": "Altona Community Memorial Health Cent. Pharm. ",
+      "license": " 10023",
+      "address": "240 - 5th Avenue N.E.",
+      "postal": "R0G 0B0"
+    }
+  },
+  "6": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Morden",
+      "fax": "(204) 822-5227",
+      "name": "Apothecary of Morden Inc. ",
+      "license": " 32870",
+      "address": "135-30 Stephen Street",
+      "postal": "R6M 2G3"
+    }
+  },
+  "7": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Arborg",
+      "fax": "(204) 376-2999",
+      "name": "Arborg Pharmacy ",
+      "license": " 10056",
+      "address": "273 Main Street",
+      "postal": "R0C 0A0"
+    }
+  },
+  "8": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 505-3059",
+      "name": "Archibald Pharmacy ",
+      "license": " 34322",
+      "address": "662 Elizabeth Road",
+      "postal": "R2J 1A4"
+    }
+  },
+  "9": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 615-4634",
+      "name": "Arrowwood Pharmacy ",
+      "license": " 34636",
+      "address": "2-925 Headmaster Row",
+      "postal": "R2G 4J4"
+    }
+  },
+  "10": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Ashern",
+      "fax": "(204) 768-2084",
+      "name": "Ashern Pharmacy ",
+      "license": " 10067",
+      "address": "Box 490",
+      "postal": "R0C 0E0"
+    }
+  },
+  "11": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 615-1146",
+      "name": "Assiniboine Pharmacy ",
+      "license": " 34580",
+      "address": "D-3111 Portage Avenue",
+      "postal": "R3K 0W4"
+    }
+  },
+  "12": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 504-6304",
+      "name": "Autumnwood Pharmacy ",
+      "license": " 34052",
+      "address": "Unit 10, 414 Westmount Drive",
+      "postal": "R2J 1P3"
+    }
+  },
+  "13": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Baldur",
+      "fax": "(204) 535-2578",
+      "name": "Baldur Pharmacy ",
+      "license": " 31666",
+      "address": "531 Elizabeth Avenue E., Box 99",
+      "postal": "R0K 0B0"
+    }
+  },
+  "14": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(844) 899-2099",
+      "name": "Bayshore Pharmacy ",
+      "license": " 34333",
+      "address": "1700 Ness Avenue",
+      "postal": "R3J 3Y1"
+    }
+  },
+  "15": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Beausejour",
+      "fax": "(204) 268-3761",
+      "name": "Beausejour Guardian Pharmacy ",
+      "license": " 11125",
+      "address": "Box 1210, 635 Park Avenue",
+      "postal": "R0E 0C0"
+    }
+  },
+  "16": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Carman",
+      "fax": "(204) 745-6587",
+      "name": "BenefitsRx Pharmacy ",
+      "license": " 12384",
+      "address": "Box 370, 66 Main Street S.",
+      "postal": "R0G 0J0"
+    }
+  },
+  "17": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 949-9511",
+      "name": "BioScript Pharmacy Ltd. ",
+      "license": " 33691",
+      "address": "101-1661 Portage Avenue",
+      "postal": "R3J 3T7"
+    }
+  },
+  "18": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Birtle",
+      "fax": "(204) 842-5225",
+      "name": "Birtle Pharmacy ",
+      "license": " 31363",
+      "address": "Box 479, 808 Main Street",
+      "postal": "R0M 0C0"
+    }
+  },
+  "19": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Scanterbury",
+      "fax": "(204) 766-2425",
+      "name": "BON Pharmacy Ltd. ",
+      "license": " 34681",
+      "address": "P.O. Box 130, 2 Bear Road",
+      "postal": "R0E 1W0"
+    }
+  },
+  "20": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winkler",
+      "fax": "(204) 331-8911",
+      "name": "Boundary Trails Health Centre Pharmacy ",
+      "license": " 11529",
+      "address": "Box 2000, Corner of PTH 3 & PTH 14",
+      "postal": "R6W 1H8"
+    }
+  },
+  "21": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 415-3811",
+      "name": "Boyd Medical Pharmacy ",
+      "license": " 33668",
+      "address": "384 Portage Avenue",
+      "postal": "R3C 0C7"
+    }
+  },
+  "22": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Brandon",
+      "fax": "(204) 571-6555",
+      "name": "Brandon Clinic Pharmacy ",
+      "license": " 10483",
+      "address": "4 - 42 McTavish Avenue E.",
+      "postal": "R7A 2B2"
+    }
+  },
+  "23": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Brandon",
+      "fax": "(204) 578-4952",
+      "name": "Brandon RHC Pharmacy ",
+      "license": " 10179",
+      "address": "150 McTavish Avenue East",
+      "postal": "R7A 2B3"
+    }
+  },
+  "24": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 888-7941",
+      "name": "Brathwaite's Pharmacy ",
+      "license": " 10708",
+      "address": "1772 Ness Avenue",
+      "postal": "R3J 0Y1"
+    }
+  },
+  "25": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 786-6990",
+      "name": "Broadway Pharmacy Ltd. ",
+      "license": " 10203",
+      "address": "618 Broadway Avenue",
+      "postal": "R3C 0W8"
+    }
+  },
+  "26": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 586-2458",
+      "name": "Brothers Pharmacy Ltd. ",
+      "license": " 10214",
+      "address": "542 Selkirk Avenue",
+      "postal": "R2W 2M9"
+    }
+  },
+  "27": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 663-7915",
+      "name": "Brown's Drug Store ",
+      "license": " 10225",
+      "address": "239 Henderson Highway",
+      "postal": "R2L 1M1"
+    }
+  },
+  "28": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 654-7915",
+      "name": "CanadaDrugs.com & Prairie Rx ",
+      "license": " 32195",
+      "address": "10 Terracon Place",
+      "postal": "R2J 4G7"
+    }
+  },
+  "29": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 334-0107",
+      "name": "Canadian Care Drugs ",
+      "license": " 34827",
+      "address": "1853 Main Street",
+      "postal": "R2V 2A4"
+    }
+  },
+  "30": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 787-4905",
+      "name": "CancerCare Manitoba ",
+      "license": " 13194",
+      "address": "675 McDermot Avenue, Room 3114",
+      "postal": "R3E 0V9"
+    }
+  },
+  "31": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 691-6981",
+      "name": "Care At Home Pharmacy ",
+      "license": " 34502",
+      "address": "1-3140 Portage Avenue",
+      "postal": "R3K 0Y4"
+    }
+  },
+  "32": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 222-5800",
+      "name": "CarePlus Transcona Pharmacy ",
+      "license": " 34153",
+      "address": "850 Regent Avenue West",
+      "postal": "R2C 3A8"
+    }
+  },
+  "33": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 944-1765",
+      "name": "CARI Pharmacy ",
+      "license": " 33174",
+      "address": "893 Main Street",
+      "postal": "R2W 3P2"
+    }
+  },
+  "34": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Carman",
+      "fax": "(204) 745-3598",
+      "name": "Carman Co-op Pharmacy ",
+      "license": " 34692",
+      "address": "61 Main Street North, Box 790",
+      "postal": "R0G 0J0"
+    }
+  },
+  "35": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Carman",
+      "fax": "(204) 745-3029",
+      "name": "Carman Memorial Hospital Pharmacy ",
+      "license": " 10427",
+      "address": "Box 610, 350 - 4th Street S.W.",
+      "postal": "R0G 0J0"
+    }
+  },
+  "36": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Carman",
+      "fax": "(204) 745-3807",
+      "name": "Carman Pharmacy ",
+      "license": " 13295",
+      "address": "Box 1700, 34 - 1st Street S.W.",
+      "postal": "R0G 0J0"
+    }
+  },
+  "37": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 615-0789",
+      "name": "Celestial Pharmacy ",
+      "license": " 34782",
+      "address": "842 Ellice Avenue",
+      "postal": "R3G 0C2"
+    }
+  },
+  "38": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Churchill",
+      "fax": "(204) 675-8371",
+      "name": "Churchill Health Centre Pharmacy ",
+      "license": " 10450",
+      "address": "Box 2500, 162 LaVerendrye Ave, Town Complex",
+      "postal": "R0B 0E0"
+    }
+  },
+  "39": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 489-2828",
+      "name": "CinDen Pharmacy ",
+      "license": " 31532",
+      "address": "123-A Scurfield Blvd.",
+      "postal": "R3Y 1L6"
+    }
+  },
+  "40": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 452-7585",
+      "name": "CinDen Pharmacy #1 ",
+      "license": " 33714",
+      "address": "1600 Pembina Highway",
+      "postal": "R3T 5Z2"
+    }
+  },
+  "41": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 221-7438",
+      "name": "CinDen Pharmacy #2 ",
+      "license": " 34030",
+      "address": "101-1020 Lorimer Blvd.",
+      "postal": "R3P 1C7"
+    }
+  },
+  "42": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Thompson",
+      "fax": "(204) 778-7619",
+      "name": "Clarke's Pharmacy ",
+      "license": " 10461",
+      "address": "50 Selkirk Avenue",
+      "postal": "R8N 0M7"
+    }
+  },
+  "43": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 261-6390",
+      "name": "Clayman Pharmacy ",
+      "license": " 32421",
+      "address": "Unit 1 - 1099 Kingsbury Avenue",
+      "postal": "R2P 2P9"
+    }
+  },
+  "44": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 669-0532",
+      "name": "Concordia Community Pharmacy ",
+      "license": " 34298",
+      "address": "4-1095 Concordia Avenue",
+      "postal": "R2K 3S8"
+    }
+  },
+  "45": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 661-7236",
+      "name": "Concordia Hospital Pharmacy ",
+      "license": " 10506",
+      "address": "1095 Concordia Avenue",
+      "postal": "R2K 3S8"
+    }
+  },
+  "46": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 488-0735",
+      "name": "Corydon Village Pharmacy ",
+      "license": " 34186",
+      "address": "105 - 1700 Corydon Avenue",
+      "postal": "R3N 0K1"
+    }
+  },
+  "47": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 663-3080",
+      "name": "Costco Pharmacy #153 ",
+      "license": " 31734",
+      "address": "1499 Regent Avenue",
+      "postal": "R2C 4M4"
+    }
+  },
+  "48": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 487-5106",
+      "name": "Costco Pharmacy #549 ",
+      "license": " 33466",
+      "address": "2365 McGillivray Blvd.",
+      "postal": "R3Y 0A1"
+    }
+  },
+  "49": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 774-0172",
+      "name": "Costco Pharmacy #57 ",
+      "license": " 31745",
+      "address": "1315 St. James Street",
+      "postal": "R3H 0K9"
+    }
+  },
+  "50": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 975-1867",
+      "name": "Crestview Pharmacy ",
+      "license": " 33151",
+      "address": "561 Ellice Avenue",
+      "postal": "R3B 3C6"
+    }
+  },
+  "51": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 255-2989",
+      "name": "Dakota Pharmacy ",
+      "license": " 10528",
+      "address": "1087 St. Mary's Road",
+      "postal": "R2M 3T2"
+    }
+  },
+  "52": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 786-5827",
+      "name": "Danial Pharmacy ",
+      "license": " 33512",
+      "address": "Unit 2, 505 Sargent Avenue",
+      "postal": "R3B 1V9"
+    }
+  },
+  "53": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Dauphin",
+      "fax": "(204) 638-3140",
+      "name": "Dauphin Clinic Pharmacy ",
+      "license": " 10539",
+      "address": "622-3rd Street S.W.",
+      "postal": "R7N 1R5"
+    }
+  },
+  "54": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Dauphin",
+      "fax": "(204) 629-3428",
+      "name": "Dauphin Regional Health Centre Pharmacy ",
+      "license": " 10540",
+      "address": "625-3rd Street S.W.",
+      "postal": "R7N 1R7"
+    }
+  },
+  "55": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 895-2075",
+      "name": "Deer Lodge Centre Pharmacy Inc. ",
+      "license": " 10573",
+      "address": "2109 Portage Avenue",
+      "postal": "R3J 0L3"
+    }
+  },
+  "56": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 257-7607",
+      "name": "Drugstore Pharmacy #9002 ",
+      "license": " 33084",
+      "address": "740 St. Anne's Road",
+      "postal": "R2N 0A2"
+    }
+  },
+  "57": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "The Pas",
+      "fax": "(204) 623-1871",
+      "name": "Drugstore Pharmacy #9079 ",
+      "license": " 32959",
+      "address": "Box 810, #12 Highway 10 North",
+      "postal": "R9A 1K2"
+    }
+  },
+  "58": {
+    "pharmacy": {
+      "province": "",
+      "city": "Swan River",
+      "fax": "(204) 734-5410",
+      "name": "Drugstore Pharmacy #9081 ",
+      "license": " 31352",
+      "address": "1200 Main Street",
+      "postal": "R0L 1Z0"
+    }
+  },
+  "59": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Selkirk",
+      "fax": "(204) 482-2907",
+      "name": "Drugstore Pharmacy #9082 ",
+      "license": " 31576",
+      "address": "366 Main Street",
+      "postal": "R1A 2J7"
+    }
+  },
+  "60": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Vita",
+      "fax": "(204) 425-3043",
+      "name": "Dueck Drug Store ",
+      "license": " 10629",
+      "address": "207 Railway Avenue, Box 190",
+      "postal": "R0A 2K0"
+    }
+  },
+  "61": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "East St. Paul",
+      "fax": "(204) 663-4224",
+      "name": "East St. Paul Pharmacy ",
+      "license": " 33927",
+      "address": "Unit 4 - 3014 Henderson Highway",
+      "postal": "R2E 0H9"
+    }
+  },
+  "62": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 668-2508",
+      "name": "Ebbeling Pharmacy Ltd. ",
+      "license": " 10652",
+      "address": "722 Watt Street",
+      "postal": "R2K 2S9"
+    }
+  },
+  "63": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winkler",
+      "fax": "(204) 325-8429",
+      "name": "Eden Mental Health Centre Pharmacy ",
+      "license": " 10663",
+      "address": "1500 Pembina Avenue",
+      "postal": "R6W 1T4"
+    }
+  },
+  "64": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Elie",
+      "fax": "(204) 353-2373",
+      "name": "Elie Pharmacy ",
+      "license": " 33073",
+      "address": "7 Main Street, Box 160",
+      "postal": "R0H 0H0"
+    }
+  },
+  "65": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Manitou",
+      "fax": "(204) 242-3478",
+      "name": "Ellis Pharmacy & Thrifty Meds Now ",
+      "license": " 32713",
+      "address": "Box 490, 408 Main Street",
+      "postal": "R0G 1G0"
+    }
+  },
+  "66": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 421-3808",
+      "name": "Emad Pharmacy ",
+      "license": " 34311",
+      "address": "1074 Main Street",
+      "postal": "R2W 5J3"
+    }
+  },
+  "67": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Emerson",
+      "fax": "(204) 373-2179",
+      "name": "Emerson Pharmacy ",
+      "license": " 31510",
+      "address": "21 Main Street",
+      "postal": "R0A 0L0"
+    }
+  },
+  "68": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 589-5994",
+      "name": "Empire Drugs (1983) Ltd. ",
+      "license": " 10696",
+      "address": "801 Selkirk Avenue",
+      "postal": "R2W 2N5"
+    }
+  },
+  "69": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Eriksdale",
+      "fax": "(204) 739-2039",
+      "name": "Eriksdale Pharmacy ",
+      "license": " 31453",
+      "address": "Railway Avenue, Box 480",
+      "postal": "R0C 0W0"
+    }
+  },
+  "70": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 942-0867",
+      "name": "Exchange District Pharmacy ",
+      "license": " 34726",
+      "address": "286 McDermot Avenue",
+      "postal": "R3B 0T2"
+    }
+  },
+  "71": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(888) 717-9533",
+      "name": "Express Scripts Canada Pharmacy ",
+      "license": " 33972",
+      "address": "114-1790 Wellington Avenue",
+      "postal": "R3H 1B2"
+    }
+  },
+  "72": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Carberry",
+      "fax": "(204) 834-3327",
+      "name": "Falk Pharmacy ",
+      "license": " 11237",
+      "address": "135 Main Street",
+      "postal": "R0K 0H0"
+    }
+  },
+  "73": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Brandon",
+      "fax": "(204) 727-1330",
+      "name": "Flatland Drugs ",
+      "license": " 34524",
+      "address": "B-1340 10th Street",
+      "postal": "R7A 6Z3"
+    }
+  },
+  "74": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Flin Flon",
+      "fax": "(204) 687-9607",
+      "name": "Flin Flon General Hospital Pharmacy ",
+      "license": " 10731",
+      "address": "P.O. Box 340, Fourth Avenue",
+      "postal": "R8A 1N2"
+    }
+  },
+  "75": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Fort Alexander",
+      "fax": "(204) 367-9909",
+      "name": "Fort Alexander Pharmacy ",
+      "license": " 34625",
+      "address": "Box 248",
+      "postal": "R0E 0P0"
+    }
+  },
+  "76": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 691-1923",
+      "name": "Fort Rouge Pharmacy ",
+      "license": " 34412",
+      "address": "894 Corydon Avenue",
+      "postal": "R3M 0E1"
+    }
+  },
+  "77": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 831-8634",
+      "name": "Friend's Pharmacy ",
+      "license": " 33332",
+      "address": "3012 Portage Avenue",
+      "postal": "R3K 0X8"
+    }
+  },
+  "78": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 668-8927",
+      "name": "Gateway Pharmacy ",
+      "license": " 34962",
+      "address": "4-1115 Gateway Road",
+      "postal": "R2G 0A5"
+    }
+  },
+  "79": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 775-9611",
+      "name": "Geri-Aid Systems #4861 ",
+      "license": " 10742",
+      "address": "965 Wall Street",
+      "postal": "R3G 2V4"
+    }
+  },
+  "80": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Gilbert Plains",
+      "fax": "(204) 548-2988",
+      "name": "Gilbert Plains Pharmacy Ltd. ",
+      "license": " 10764",
+      "address": "Box 550, 26 Main Street",
+      "postal": "R0L 0X0"
+    }
+  },
+  "81": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Gladstone",
+      "fax": "(204) 385-2728",
+      "name": "Gladstone Pharmacy ",
+      "license": " 10168",
+      "address": "25 Dennis Street W., Box 280",
+      "postal": "R0J 0T0"
+    }
+  },
+  "82": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Glenboro",
+      "fax": "(204) 827-2081",
+      "name": "Glenboro Pharmacy Ltd. ",
+      "license": " 10797",
+      "address": "Box 159, 512 Railway Avenue",
+      "postal": "R0K 0X0"
+    }
+  },
+  "83": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 582-9992",
+      "name": "Good Neighbor Pharmacy ",
+      "license": " 31622",
+      "address": "634 Selkirk Avenue",
+      "postal": "R2W 2N1"
+    }
+  },
+  "84": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 895-1387",
+      "name": "Good Shepherd Pharmacy ",
+      "license": " 32689",
+      "address": "2416 Portage Avenue",
+      "postal": "R3J 0M8"
+    }
+  },
+  "85": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 888-0196",
+      "name": "Grace Hospital Pharmacy ",
+      "license": " 10809",
+      "address": "300 Booth Drive",
+      "postal": "R3J 3M7"
+    }
+  },
+  "86": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 775-4000",
+      "name": "Grand Medicine Health Sciences Pharmacy ",
+      "license": " 33983",
+      "address": "SR171 - 820 Sherbrook Street",
+      "postal": "R3A 1R9"
+    }
+  },
+  "87": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 885-7504",
+      "name": "Grand Medicine Health Services ",
+      "license": " 31879",
+      "address": "220 Cree Crescent, Suite A",
+      "postal": "R3J 3W1"
+    }
+  },
+  "88": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Hodgson",
+      "fax": "(204) 372-6469",
+      "name": "Grand Medicine Pharmacy Ltd. ",
+      "license": " 33635",
+      "address": "Box 87, Lot 39, Hwy 325",
+      "postal": "R0C 1N0"
+    }
+  },
+  "89": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Grandview",
+      "fax": "(204) 546-2314",
+      "name": "Grandview Pharmacy ",
+      "license": " 10247",
+      "address": "Box 129, 404 Main Street",
+      "postal": "R0L 0Y0"
+    }
+  },
+  "90": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 415-3407",
+      "name": "GreenCrest Pembina Pharmacy ",
+      "license": " 33680",
+      "address": "B-2750 Pembina Highway",
+      "postal": "R3T 2H8"
+    }
+  },
+  "91": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Grunthal",
+      "fax": "(204) 434-6341",
+      "name": "Grunthal Pharmacy ",
+      "license": " 34041",
+      "address": "112 Main Street, Box 1011",
+      "postal": "R0A 0R0"
+    }
+  },
+  "92": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 661-6255",
+      "name": "Harbourview Pharmacy ",
+      "license": " 34243",
+      "address": "Unit 10, 1320 Concordia Avenue",
+      "postal": "R3W 0G6"
+    }
+  },
+  "93": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Neepawa",
+      "fax": "(204) 476-3360",
+      "name": "Harris Pharmacy Ltd. ",
+      "license": " 10843",
+      "address": "424 Mountain Avenue, Box 416",
+      "postal": "R0J 1H0"
+    }
+  },
+  "94": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Deloraine",
+      "fax": "(204) 747-2133",
+      "name": "Hasselfield Drugs Ltd. ",
+      "license": " 10865",
+      "address": "103 Broadway Street S.",
+      "postal": "R0M 0M0"
+    }
+  },
+  "95": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Boissevain",
+      "fax": "(204) 534-6854",
+      "name": "Hazlewood Drugs Ltd. ",
+      "license": " 10911",
+      "address": "323 S. Railway Street",
+      "postal": "R0K 0E0"
+    }
+  },
+  "96": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 231-0670",
+      "name": "Health Central Pharmacy Inc. ",
+      "license": " 31981",
+      "address": "489 St. Mary' s Road",
+      "postal": "R2M 3L1"
+    }
+  },
+  "97": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 254-4642",
+      "name": "Health Plus Pharmacy ",
+      "license": " 33590",
+      "address": "1075 Autumnwood Drive",
+      "postal": "R2J 1C6"
+    }
+  },
+  "98": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 787-3195",
+      "name": "Health Sciences Centre Pharmacy ",
+      "license": " 10876",
+      "address": "820 Sherbrook Street",
+      "postal": "R3A 1R9"
+    }
+  },
+  "99": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 787-7414",
+      "name": "Health Sciences Centre Pharmacy ",
+      "license": " 12890",
+      "address": "Room PX 155, 771 Bannatyne Avenue",
+      "postal": "R3E 3N4"
+    }
+  },
+  "100": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 416-4640",
+      "name": "Health-Wellness Pharmacy ",
+      "license": " 34063",
+      "address": "219 Marion Street",
+      "postal": "R2H 0T5"
+    }
+  },
+  "101": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 415-7060",
+      "name": "Healthway Pharmacy ",
+      "license": " 33488",
+      "address": "865 Portage Avenue",
+      "postal": "R3G 0N8"
+    }
+  },
+  "102": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 415-3113",
+      "name": "Healthway Pharmacy #2 ",
+      "license": " 33781",
+      "address": "862 Main Street",
+      "postal": "R2W 3P1"
+    }
+  },
+  "103": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Brandon",
+      "fax": "(204) 727-6114",
+      "name": "Heritage Co-op Ltd. ",
+      "license": " 34164",
+      "address": "1035 Richmond Avenue",
+      "postal": "R7A 1M5"
+    }
+  },
+  "104": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 942-0406",
+      "name": "Higgins Pharmacy ",
+      "license": " 34579",
+      "address": "670 Main Street",
+      "postal": "R3B 1E4"
+    }
+  },
+  "105": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Portage La Prairie",
+      "fax": "(204) 239-5748",
+      "name": "Hill's Clinic Pharmacy ",
+      "license": " 12834",
+      "address": "103-140-9th Street S.E.",
+      "postal": "R1N 3V5"
+    }
+  },
+  "106": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Portage La Prairie",
+      "fax": "(204) 239-0094",
+      "name": "Hill's East Drug Store ",
+      "license": " 10898",
+      "address": "200 Saskatchewan Avenue E.",
+      "postal": "R1N 0K9"
+    }
+  },
+  "107": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Brandon",
+      "fax": "(204) 727-5882",
+      "name": "Home Health Care Pharmacy ",
+      "license": " 10472",
+      "address": "Unit A, 3000 Victoria Avenue",
+      "postal": "R7B 3Y3"
+    }
+  },
+  "108": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Selkirk",
+      "fax": "(204) 785-2088",
+      "name": "IERHA Hospitals Pharmacy ",
+      "license": " 12070",
+      "address": "100 Easton Drive",
+      "postal": "R1A 2M2"
+    }
+  },
+  "109": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Ile-des-Chenes",
+      "fax": "(204) 878-2194",
+      "name": "Ile-des-Chenes Pharmacy ",
+      "license": " 34209",
+      "address": "Box 1120, Unit 7 - 449 Main Street",
+      "postal": "R0A 0T0"
+    }
+  },
+  "110": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Lac Du Bonnet",
+      "fax": "(204) 345-2782",
+      "name": "Ingham Pharmacy Ltd. ",
+      "license": " 10944",
+      "address": "29 Park Avenue N.",
+      "postal": "R0E 1A0"
+    }
+  },
+  "111": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 488-3448",
+      "name": "Innomar Pharmacy ",
+      "license": " 34883",
+      "address": "179 Commerce Drive",
+      "postal": "R3P 1A2"
+    }
+  },
+  "112": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 505-6460",
+      "name": "Invivo Health Pharmacy ",
+      "license": " 34131",
+      "address": "354 Selkirk Avenue",
+      "postal": "R2W 2M2"
+    }
+  },
+  "113": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 779-9981",
+      "name": "Isabel Pharmacy ",
+      "license": " 10966",
+      "address": "110 Isabel Street",
+      "postal": "R3A 1G4"
+    }
+  },
+  "114": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 255-8599",
+      "name": "Island Lakes Pharmacy Inc. ",
+      "license": " 31699",
+      "address": "Unit 6, 20 Island Shore Blvd.",
+      "postal": "R3X 1N6"
+    }
+  },
+  "115": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 615-6002",
+      "name": "JM Pharmacy Limited ",
+      "license": " 34838",
+      "address": "313 St. Anne's Road",
+      "postal": "R2M 3B1"
+    }
+  },
+  "116": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 615-0011",
+      "name": "Keewatin Medical Pharmacy ",
+      "license": " 34535",
+      "address": "Unit 6 - 998 Keewatin Street",
+      "postal": "R2R 2V1"
+    }
+  },
+  "117": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Altona",
+      "fax": "(204) 324-6252",
+      "name": "Ken's Pharmacy #7406 ",
+      "license": " 33242",
+      "address": "17-115-4th Avenue N.E.",
+      "postal": "R0G 0B0"
+    }
+  },
+  "118": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Killarney",
+      "fax": "(204) 523-8325",
+      "name": "Killarney Pharmacy Ltd. ",
+      "license": " 11024",
+      "address": "Box 850, 7A-530 Williams Avenue",
+      "postal": "R0K 1G0"
+    }
+  },
+  "119": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "La Salle",
+      "fax": "(204) 736-2413",
+      "name": "La Salle Pharmacy Ltd. ",
+      "license": " 33545",
+      "address": "Unit 2, 49 Rue Principale, Box 529",
+      "postal": "R0G 1B0"
+    }
+  },
+  "120": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 925-9584",
+      "name": "Leclerc Pharmacie ",
+      "license": " 11079",
+      "address": "343 Tache Avenue",
+      "postal": "R2H 2A5"
+    }
+  },
+  "121": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 338-2810",
+      "name": "Leila Pharmacy ",
+      "license": " 11080",
+      "address": "632 Leila Avenue",
+      "postal": "R2V 3N7"
+    }
+  },
+  "122": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Steinbach",
+      "fax": "(204) 320-4133",
+      "name": "Loblaw Pharmacy #1503 ",
+      "license": " 33253",
+      "address": "130 PTH #12",
+      "postal": "R5G 1T4"
+    }
+  },
+  "123": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 631-6268",
+      "name": "Loblaw Pharmacy #1505 ",
+      "license": " 12519",
+      "address": "2132 McPhillips Street",
+      "postal": "R2V 3C8"
+    }
+  },
+  "124": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 654-5532",
+      "name": "Loblaw Pharmacy #1506 ",
+      "license": " 31970",
+      "address": "1578 Regent Avenue West",
+      "postal": "R2C 3B4"
+    }
+  },
+  "125": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 837-5431",
+      "name": "Loblaw Pharmacy #1508 ",
+      "license": " 31374",
+      "address": "3193 Portage Avenue",
+      "postal": "R3K 0W4"
+    }
+  },
+  "126": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 275-4133",
+      "name": "Loblaw Pharmacy #1509 ",
+      "license": " 31813",
+      "address": "80 Bison Drive",
+      "postal": "R3T 4Z7"
+    }
+  },
+  "127": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winkler",
+      "fax": "(204) 331-2533",
+      "name": "Loblaw Pharmacy #1510 ",
+      "license": " 31824",
+      "address": "Box 870, 175 Cargill Road",
+      "postal": "R6W 4A9"
+    }
+  },
+  "128": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 784-7933",
+      "name": "Loblaw Pharmacy #1511 ",
+      "license": " 32869",
+      "address": "1385 Sargent Avenue",
+      "postal": "R3E 3P8"
+    }
+  },
+  "129": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 987-7336",
+      "name": "Loblaw Pharmacy #1512 ",
+      "license": " 12508",
+      "address": "1035 Gateway Road",
+      "postal": "R2K 4C1"
+    }
+  },
+  "130": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 258-2433",
+      "name": "Loblaw Pharmacy #1514 ",
+      "license": " 12520",
+      "address": "215 St. Anne's Road",
+      "postal": "R2M 2Z9"
+    }
+  },
+  "131": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Brandon",
+      "fax": "(204) 725-1598",
+      "name": "Loblaw Pharmacy #1515 ",
+      "license": " 12799",
+      "address": "920 Victoria Avenue",
+      "postal": "R7A 1A7"
+    }
+  },
+  "132": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 488-5831",
+      "name": "Loblaw Pharmacy #1516 ",
+      "license": " 12531",
+      "address": "550 Kenaston Blvd.",
+      "postal": "R3N 2A1"
+    }
+  },
+  "133": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Dauphin",
+      "fax": "(204) 622-2928",
+      "name": "Loblaw Pharmacy #4622 ",
+      "license": " 31633",
+      "address": "15 - 1st Avenue N.E.",
+      "postal": "R7N 3M3"
+    }
+  },
+  "134": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 253-2286",
+      "name": "London Drugs #66 ",
+      "license": " 32825",
+      "address": "#23C-1225 St. Mary's Road",
+      "postal": "R2M 5E5"
+    }
+  },
+  "135": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Lundar",
+      "fax": "(204) 762-5151",
+      "name": "Lundar Pharmacy ",
+      "license": " 11136",
+      "address": "18 Main Street",
+      "postal": "R0C 1Y0"
+    }
+  },
+  "136": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "MacGregor",
+      "fax": "(204) 685-3103",
+      "name": "MacGregor Pharmacy Ltd. ",
+      "license": " 32331",
+      "address": "26 Hampton Street",
+      "postal": "R0H 0R0"
+    }
+  },
+  "137": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 615-2215",
+      "name": "Machray Pharmacy ",
+      "license": " 34568",
+      "address": "561 Machray Avenue",
+      "postal": "R2W 1B1"
+    }
+  },
+  "138": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 582-9903",
+      "name": "Main St. Pharmacy ",
+      "license": " 33455",
+      "address": "968 Main Street",
+      "postal": "R2W 3P5"
+    }
+  },
+  "139": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 633-9345",
+      "name": "Mandalay Pharmacy ",
+      "license": " 33208",
+      "address": "70 Mandalay Drive",
+      "postal": "R2P 1V8"
+    }
+  },
+  "140": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 505-8226",
+      "name": "Manila Pharmacy ",
+      "license": " 34377",
+      "address": "1054 McPhillips Street",
+      "postal": "R2X 2K9"
+    }
+  },
+  "141": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Portage La Prairie",
+      "fax": "(204) 856-4300",
+      "name": "Manitoba Developmental Centre Pharmacy ",
+      "license": " 11147",
+      "address": "840-3rd Street N.E., Box 1190",
+      "postal": "R1N 3C6"
+    }
+  },
+  "142": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 338-1710",
+      "name": "Maples Pharmacy ",
+      "license": " 33961",
+      "address": "Unit 3A - 1353 McPhillips Street",
+      "postal": "R2X 3A6"
+    }
+  },
+  "143": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 231-3244",
+      "name": "Marion Pharmacy ",
+      "license": " 34142",
+      "address": "191 Marion Street",
+      "postal": "R2H 0T5"
+    }
+  },
+  "144": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 257-3987",
+      "name": "Meadowood Pharmacy ",
+      "license": " 11259",
+      "address": "1555 St. Mary's Road",
+      "postal": "R2M 5L9"
+    }
+  },
+  "145": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 772-0262",
+      "name": "Medi North Pharmacy & AccessCanadaDrugMart ",
+      "license": " 32386",
+      "address": "906 Main Street",
+      "postal": "R2W 3P3"
+    }
+  },
+  "146": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 589-8206",
+      "name": "Medi-Care Pharmacy ",
+      "license": " 33477",
+      "address": "794 Main Street",
+      "postal": "R2W 3N7"
+    }
+  },
+  "147": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 414-3448",
+      "name": "Medi-Care Pharmacy - Maples ",
+      "license": " 34018",
+      "address": "1287 Jefferson Street",
+      "postal": "R2P 1S7"
+    }
+  },
+  "148": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 942-6892",
+      "name": "Medic-X Pharmacy ",
+      "license": " 34591",
+      "address": "203 Kennedy Street",
+      "postal": "R3C 0L7"
+    }
+  },
+  "149": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 784-2858",
+      "name": "Medisystem Pharmacy Manitoba Limited ",
+      "license": " 32443",
+      "address": "12 - 1832 King Edward Street",
+      "postal": "R2R 0N1"
+    }
+  },
+  "150": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 942-7224",
+      "name": "Medocare ",
+      "license": " 33994",
+      "address": "150 Henry Avenue",
+      "postal": "R3B 0J7"
+    }
+  },
+  "151": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Brandon",
+      "fax": "(204) 571-0155",
+      "name": "Medsafe Pharmacy ",
+      "license": " 34096",
+      "address": "1-335, 18th Street",
+      "postal": "R7A 5A8"
+    }
+  },
+  "152": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Melita",
+      "fax": "(204) 522-3149",
+      "name": "Melita Super Thrifty Pharmacy ",
+      "license": " 32285",
+      "address": "112 Main Street, PO Box 298",
+      "postal": "R0M 1L0"
+    }
+  },
+  "153": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 947-3329",
+      "name": "Meyers Drugs Ltd. ",
+      "license": " 11462",
+      "address": "483 William Avenue",
+      "postal": "R3A 0J5"
+    }
+  },
+  "154": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 504-3270",
+      "name": "Millennium Pharmacy ",
+      "license": " 34254",
+      "address": "311 Balmoral Street",
+      "postal": "R3C 4A8"
+    }
+  },
+  "155": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Brandon",
+      "fax": "(204) 727-1733",
+      "name": "Miller's Pharmacy ",
+      "license": " 32511",
+      "address": "Unit A, 624-18th Street",
+      "postal": "R7A 5B4"
+    }
+  },
+  "156": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Minnedosa",
+      "fax": "(204) 867-2136",
+      "name": "Minnedosa Pharmacy ",
+      "license": " 11484",
+      "address": "77 Main Street S., Box 456",
+      "postal": "R0J 1E0"
+    }
+  },
+  "157": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 774-8488",
+      "name": "Misericordia Health Centre Pharmacy ",
+      "license": " 11495",
+      "address": "99 Cornish Avenue",
+      "postal": "R3C 1A2"
+    }
+  },
+  "158": {
+    "pharmacy": {
+      "province": "",
+      "city": "Roblin",
+      "fax": "(204) 937-2578",
+      "name": "Mitchell's Drug Store ",
+      "license": " 11507",
+      "address": "125 Main Street",
+      "postal": "R0L 1P0"
+    }
+  },
+  "159": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Morris",
+      "fax": "(204) 746-8457",
+      "name": "Morris General Hospital Pharmacy ",
+      "license": " 11541",
+      "address": "215 Railroad Avenue E.",
+      "postal": "R0G 1K0"
+    }
+  },
+  "160": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 589-1465",
+      "name": "Mount Carmel Clinic Pharmacy ",
+      "license": " 11563",
+      "address": "886 Main Street",
+      "postal": "R2W 5L4"
+    }
+  },
+  "161": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Erickson",
+      "fax": "(204) 636-2184",
+      "name": "Mountain Park Pharmacy Ltd. ",
+      "license": " 11585",
+      "address": "47 Main Street W.",
+      "postal": "R0J 0P0"
+    }
+  },
+  "162": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 661-6552",
+      "name": "Munroe Pharmacy Ltd. ",
+      "license": " 11596",
+      "address": "525 London Street",
+      "postal": "R2K 2Z4"
+    }
+  },
+  "163": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 504-5207",
+      "name": "My Care Pharmacy ",
+      "license": " 13273",
+      "address": "986 Portage Avenue",
+      "postal": "R3G 0R6"
+    }
+  },
+  "164": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Pine Falls",
+      "fax": "(204) 367-8868",
+      "name": "Nations-First Pharmacy ",
+      "license": " 34232",
+      "address": "Box 550, 102-19 Pine Street",
+      "postal": "R0E 1M0"
+    }
+  },
+  "165": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Neepawa",
+      "fax": "(204) 476-2901",
+      "name": "Neepawa Health Centre Pharmacy ",
+      "license": " 11608",
+      "address": "500 Hospital Street",
+      "postal": "R0J 1H0"
+    }
+  },
+  "166": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Neepawa",
+      "fax": "(204) 476-5059",
+      "name": "Neepawa Pharmacy ",
+      "license": " 11619",
+      "address": "A-225 Ellen Street",
+      "postal": "R0J 1H0"
+    }
+  },
+  "167": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Niverville",
+      "fax": "(204) 388-4624",
+      "name": "Niverville Pharmacy Ltd. ",
+      "license": " 32218",
+      "address": "Box 159, 72 Main Street",
+      "postal": "R0A 1E0"
+    }
+  },
+  "168": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Gillam",
+      "fax": "(204) 652-2120",
+      "name": "Northern Lights Pharmacy ",
+      "license": " 34917",
+      "address": "Box 87, 108-335 Railway Avenue",
+      "postal": "R0B 0L0"
+    }
+  },
+  "169": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Cross Lake",
+      "fax": "(204) 676-3275",
+      "name": "NorthMart Pharmacy ",
+      "license": " 33354",
+      "address": "Box 40",
+      "postal": "R0B 0J0"
+    }
+  },
+  "170": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 788-0952",
+      "name": "NorthMart Pharmacy & Muskehki Pharmacy ",
+      "license": " 33444",
+      "address": "910 Wall Street",
+      "postal": "R3G 2V2"
+    }
+  },
+  "171": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Norway House",
+      "fax": "(204) 359-6901",
+      "name": "Norway House Pharmacy Ltd. ",
+      "license": " 31688",
+      "address": "Box 520, Kistapinanihk Shopping Mall",
+      "postal": "R0B 1B0"
+    }
+  },
+  "172": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Notre Dame De Lourdes",
+      "fax": "(204) 248-2218",
+      "name": "Notre Dame Hospital Pharmacy ",
+      "license": " 11697",
+      "address": "P.O. Box 130",
+      "postal": "R0G 1M0"
+    }
+  },
+  "173": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 779-0005",
+      "name": "Notre Dame Pharmacy ",
+      "license": " 34951",
+      "address": "1034 Notre Dame Avenue",
+      "postal": "R3E 0N5"
+    }
+  },
+  "174": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 615-5543",
+      "name": "NuHealth Meds ",
+      "license": " 34906",
+      "address": "Unit 100 - 1280 Archibald Street",
+      "postal": "R2J 0Z3"
+    }
+  },
+  "175": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Oakbank",
+      "fax": "(204) 444-2234",
+      "name": "Oakbank Pharmasave ",
+      "license": " 11316",
+      "address": "Box 339, Unit #1, 559 Main Street",
+      "postal": "R0E 1J0"
+    }
+  },
+  "176": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 338-7799",
+      "name": "Oakfield Pharmacy ",
+      "license": " 13262",
+      "address": "105 - 1021 Court Avenue",
+      "postal": "R2P 1V7"
+    }
+  },
+  "177": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 477-6335",
+      "name": "Osborne Village Pharmacy Ltd. ",
+      "license": " 33893",
+      "address": "5-433 River Avenue",
+      "postal": "R3L 2V1"
+    }
+  },
+  "178": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 615-9992",
+      "name": "Pacific Pharmacy ",
+      "license": " 34704",
+      "address": "940 Sherbrook Street",
+      "postal": "R3A 1N4"
+    }
+  },
+  "179": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 338-5146",
+      "name": "Patient Advocate Pharmacy ",
+      "license": " 33264",
+      "address": "Unit 17 - 2595 Main Street",
+      "postal": "R2V 4W3"
+    }
+  },
+  "180": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 261-4888",
+      "name": "Pembina Drugs ",
+      "license": " 34894",
+      "address": "2725 Pembina Highway - Unit 3",
+      "postal": "R3T 2H5"
+    }
+  },
+  "181": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 774-3320",
+      "name": "People's Pharmacy ",
+      "license": " 11710",
+      "address": "1632 Portage Avenue",
+      "postal": "R3J 0C6"
+    }
+  },
+  "182": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Ashern",
+      "fax": "(204) 768-2945",
+      "name": "Peter's Pharmacy ",
+      "license": " 34973",
+      "address": "18 Main Street",
+      "postal": "R0C 0E0"
+    }
+  },
+  "183": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winkler",
+      "fax": "(204) 331-3661",
+      "name": "Pfahl's Drugs Ltd. ",
+      "license": " 11732",
+      "address": "Box 1024, 215-320, 6th Street",
+      "postal": "R6W 4B1"
+    }
+  },
+  "184": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "La Broquerie",
+      "fax": "(204) 424-4095",
+      "name": "Pharmacie Centre de Santé La Broquerie ",
+      "license": " 34445",
+      "address": "89 Principale Street",
+      "postal": "R0A 0W0"
+    }
+  },
+  "185": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Lorette",
+      "fax": "(204) 878-2910",
+      "name": "Pharmacie Dufresne Ltee. ",
+      "license": " 31587",
+      "address": "10-1321 Dawson Road, Box 229",
+      "postal": "R0A 0Y0"
+    }
+  },
+  "186": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Labroquerie",
+      "fax": "(204) 424-5122",
+      "name": "Pharmacie Labroquerie Pharmacy ",
+      "license": " 34108",
+      "address": "Box 879, Unit D, 205 rue Principale",
+      "postal": "R0A 0W0"
+    }
+  },
+  "187": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Ste. Anne",
+      "fax": "(204) 422-6587",
+      "name": "Pharmacie Seine Pharmacy Ltee. ",
+      "license": " 11754",
+      "address": "Unit 170, 142 Central Avenue",
+      "postal": "R5H 1C3"
+    }
+  },
+  "188": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "St. Pierre-Jolys",
+      "fax": "(204) 433-7640",
+      "name": "Pharmacie St-Pierre Pharmacy ",
+      "license": " 11765",
+      "address": "Box 730, 465 Rue Sabourin",
+      "postal": "R0A 1V0"
+    }
+  },
+  "189": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Brandon",
+      "fax": "(204) 729-9223",
+      "name": "Pharmamedic Services Pharmacy ",
+      "license": " 11776",
+      "address": "1100 Richmond Avenue",
+      "postal": "R7A 1M6"
+    }
+  },
+  "190": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 334-1571",
+      "name": "Pharmamir Pharmacy ",
+      "license": " 34423",
+      "address": "1572 Main Street",
+      "postal": "R2W 5J8"
+    }
+  },
+  "191": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Gimli",
+      "fax": "(204) 642-4710",
+      "name": "Pharmasave #451 ",
+      "license": " 11822",
+      "address": "Centre & Fourth Avenue",
+      "postal": "R0C 1B0"
+    }
+  },
+  "192": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Morden",
+      "fax": "(204) 822-6868",
+      "name": "Pharmasave #455 ",
+      "license": " 10517",
+      "address": "360 Stephen Street",
+      "postal": "R6M 1T5"
+    }
+  },
+  "193": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Beausejour",
+      "fax": "(204) 268-3710",
+      "name": "Pharmasave #469 ",
+      "license": " 11855",
+      "address": "Box 910, 651 Park Avenue",
+      "postal": "R0E 0C0"
+    }
+  },
+  "194": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Flin Flon",
+      "fax": "(204) 687-4708",
+      "name": "Pharmasave #471 ",
+      "license": " 13116",
+      "address": "37 Main Street",
+      "postal": "R8A 1J7"
+    }
+  },
+  "195": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Brandon",
+      "fax": "(204) 728-1098",
+      "name": "Pharmasave #478 ",
+      "license": " 34647",
+      "address": "2425 Unit C Victoria Avenue West",
+      "postal": "R7B 0M6"
+    }
+  },
+  "196": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Flin Flon",
+      "fax": "(204) 687-6544",
+      "name": "Pharmasave Health Centre #470 ",
+      "license": " 10720",
+      "address": "31 Church Street",
+      "postal": "R8A 1K6"
+    }
+  },
+  "197": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Pilot Mound",
+      "fax": "(204) 825-2600",
+      "name": "Pilot Mound Pharmacy ",
+      "license": " 13004",
+      "address": "143 Broadway Avenue West",
+      "postal": "R0G 1P0"
+    }
+  },
+  "198": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Pinawa",
+      "fax": "(204) 753-2325",
+      "name": "Pinawa Pharmacy ",
+      "license": " 11866",
+      "address": "PO Box 370, 40 Burrows Road",
+      "postal": "R0E 1L0"
+    }
+  },
+  "199": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Pine Falls",
+      "fax": "(204) 367-2984",
+      "name": "Pine Pharmacy ",
+      "license": " 11901",
+      "address": "Box 520",
+      "postal": "R0E 1M0"
+    }
+  },
+  "200": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 777-1469",
+      "name": "Plessis Pharmacy ",
+      "license": " 33567",
+      "address": "Unit 15 - 801 Regent Avenue",
+      "postal": "R2C 3A7"
+    }
+  },
+  "201": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 784-2300",
+      "name": "Polar Meds ",
+      "license": " 32397",
+      "address": "200-1383 Pembina Highway",
+      "postal": "R3T 2B9"
+    }
+  },
+  "202": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Portage La Prairie",
+      "fax": "(204) 857-4356",
+      "name": "Portage District General Hospital Pharmacy ",
+      "license": " 11923",
+      "address": "524 - Fifth Street S.E.",
+      "postal": "R1N 3A8"
+    }
+  },
+  "203": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 415-3357",
+      "name": "Positive Health Pharmacy Inc. ",
+      "license": " 33736",
+      "address": "3556 Pembina Highway",
+      "postal": "R3V 1A7"
+    }
+  },
+  "204": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 233-3399",
+      "name": "Prairie Trail Pharmacy ",
+      "license": " 33433",
+      "address": "100-1345 Taylor Avenue",
+      "postal": "R3M 3Y9"
+    }
+  },
+  "205": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 777-1709",
+      "name": "Prana Pharmacy ",
+      "license": " 33882",
+      "address": "208 Regent Avenue West",
+      "postal": "R2C 1R2"
+    }
+  },
+  "206": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(855) 220-6622",
+      "name": "Providen Pharmacy Logistics & Dispensary Logistics ",
+      "license": " 32836",
+      "address": "Unit 365, 550 Century Street",
+      "postal": "R3H 0Y1"
+    }
+  },
+  "207": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Stonewall",
+      "fax": "(204) 467-7322",
+      "name": "Quarry Ridge Pharmacy ",
+      "license": " 34670",
+      "address": "469 - 1st Street West",
+      "postal": "R0C 2Z0"
+    }
+  },
+  "208": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 505-4456",
+      "name": "Rasha Pharmacy ",
+      "license": " 32016",
+      "address": "15-584 Pembina Highway",
+      "postal": "R3M 3X7"
+    }
+  },
+  "209": {
+    "pharmacy": {
+      "province": "",
+      "city": "Russell",
+      "fax": "(204) 773-3460",
+      "name": "Reavie's Pharmacy ",
+      "license": " 11945",
+      "address": "243 Main Street",
+      "postal": "R0J 1W0"
+    }
+  },
+  "210": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 477-5598",
+      "name": "Red River Co-op Pharmacy - Grant ",
+      "license": " 10371",
+      "address": "1120 Grant Avenue",
+      "postal": "R3M 2A6"
+    }
+  },
+  "211": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 586-0910",
+      "name": "Red River Co-op Pharmacy - Main ",
+      "license": " 12889",
+      "address": "1425 Main Street",
+      "postal": "R2W 3V3"
+    }
+  },
+  "212": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 257-9774",
+      "name": "Red River Co-op Pharmacy - Southdale ",
+      "license": " 10269",
+      "address": "77 Vermillion Road",
+      "postal": "R2J 3W7"
+    }
+  },
+  "213": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 256-5574",
+      "name": "Red River Co-op Pharmacy - St. Vital ",
+      "license": " 12812",
+      "address": "850 Dakota Street",
+      "postal": "R2M 5R9"
+    }
+  },
+  "214": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 663-5556",
+      "name": "Red River Pharmacy ",
+      "license": " 33286",
+      "address": "139 Carmen Avenue",
+      "postal": "R2L 0E5"
+    }
+  },
+  "215": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 219-7160",
+      "name": "Red River Pharmacy #3 ",
+      "license": " 34119",
+      "address": "100 - 286 Smith Street",
+      "postal": "R3C 1K4"
+    }
+  },
+  "216": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 772-4769",
+      "name": "Red River Pharmacy - Ellice ",
+      "license": " 32544",
+      "address": "724 Ellice Avenue",
+      "postal": "R3G 0B4"
+    }
+  },
+  "217": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 224-4013",
+      "name": "Regent Park Pharmacy ",
+      "license": " 11956",
+      "address": "118-701 Regent Avenue W.",
+      "postal": "R2C 1S3"
+    }
+  },
+  "218": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "McCreary",
+      "fax": "(204) 835-2094",
+      "name": "Reischek Pharmacy Ltd. ",
+      "license": " 11967",
+      "address": "607 Burrows Road , Box 70",
+      "postal": "R0J 1B0"
+    }
+  },
+  "219": {
+    "pharmacy": {
+      "province": "",
+      "city": "Reston",
+      "fax": "(204) 877-3659",
+      "name": "Reston Drugs ",
+      "license": " 11978",
+      "address": "P.O. Box 459, 209-4th Street",
+      "postal": "R0M 1X0"
+    }
+  },
+  "220": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Altona",
+      "fax": "(204) 324-5650",
+      "name": "Rexall #7401 ",
+      "license": " 10191",
+      "address": "Box 780, Altona Mall, 2nd Street E.",
+      "postal": "R0G 0B0"
+    }
+  },
+  "221": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 989-4034",
+      "name": "Rexall #7402 ",
+      "license": " 12351",
+      "address": "633 Lodge Avenue",
+      "postal": "R3J 0S9"
+    }
+  },
+  "222": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 942-4486",
+      "name": "Rexall #7403 ",
+      "license": " 12801",
+      "address": "874 Main Street",
+      "postal": "R2W 3P1"
+    }
+  },
+  "223": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 254-1021",
+      "name": "Rexall #7404 ",
+      "license": " 33422",
+      "address": "34 Lakewood Blvd.",
+      "postal": "R2J 2M6"
+    }
+  },
+  "224": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 269-2763",
+      "name": "Rexall #7405 ",
+      "license": " 32094",
+      "address": "100-2385 Pembina Highway",
+      "postal": "R3T 2H4"
+    }
+  },
+  "225": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 339-2221",
+      "name": "Rexall #7408 ",
+      "license": " 10854",
+      "address": "2110 Main Street",
+      "postal": "R2V 2C2"
+    }
+  },
+  "226": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Stonewall",
+      "fax": "(204) 467-9123",
+      "name": "Rexall #7409 ",
+      "license": " 10955",
+      "address": "1-330 - 3rd Avenue S.",
+      "postal": "R0C 2Z0"
+    }
+  },
+  "227": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 477-8456",
+      "name": "Rexall Pharma Plus #4812 ",
+      "license": " 11631",
+      "address": "971 Corydon Avenue",
+      "postal": "R3M 0X1"
+    }
+  },
+  "228": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 475-5805",
+      "name": "Rexall Pharma Plus #4813 ",
+      "license": " 11989",
+      "address": "1295 Pembina Highway",
+      "postal": "R3T 2B3"
+    }
+  },
+  "229": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 255-4777",
+      "name": "Rexall Pharma Plus #4814 ",
+      "license": " 11798",
+      "address": "35 Lakewood Blvd.",
+      "postal": "R2J 2M8"
+    }
+  },
+  "230": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 661-1313",
+      "name": "Rexall Pharma Plus #4815 ",
+      "license": " 11787",
+      "address": "963 Henderson Highway",
+      "postal": "R2K 2M3"
+    }
+  },
+  "231": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 832-6650",
+      "name": "Rexall Pharma Plus #4816 ",
+      "license": " 11800",
+      "address": "3310 Portage Avenue",
+      "postal": "R3K 0Z1"
+    }
+  },
+  "232": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 633-5263",
+      "name": "Rexall Pharma Plus #4817 ",
+      "license": " 11394",
+      "address": "1794 Logan Avenue",
+      "postal": "R3E 1S6"
+    }
+  },
+  "233": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 942-3130",
+      "name": "Rexall Pharma Plus #4820 ",
+      "license": " 11642",
+      "address": "233 Kennedy Street",
+      "postal": "R3C 3J5"
+    }
+  },
+  "234": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 837-3284",
+      "name": "Rexall Pharma Plus #4823 ",
+      "license": " 10977",
+      "address": "3358 Roblin Blvd.",
+      "postal": "R3R 0C5"
+    }
+  },
+  "235": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 255-4889",
+      "name": "Rexall Pharma Plus #4846 ",
+      "license": " 11215",
+      "address": "1633 St. Mary's Road Unit F",
+      "postal": "R2N 1Z3"
+    }
+  },
+  "236": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 772-8010",
+      "name": "Rexall Pharma Plus #4854 ",
+      "license": " 11192",
+      "address": "676 Portage Avenue",
+      "postal": "R3G 0M4"
+    }
+  },
+  "237": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 338-6833",
+      "name": "Rexall Pharma Plus #4887 ",
+      "license": " 11349",
+      "address": "1795 Henderson Highway",
+      "postal": "R2G 1P3"
+    }
+  },
+  "238": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 947-0182",
+      "name": "Rexall Pharma Plus #4895 ",
+      "license": " 11350",
+      "address": "333 St. Mary Avenue",
+      "postal": "R3C 4A5"
+    }
+  },
+  "239": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 888-0898",
+      "name": "Rexall Pharma Plus #4903 ",
+      "license": " 11361",
+      "address": "2305 Portage Avenue",
+      "postal": "R3J 0M6"
+    }
+  },
+  "240": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Selkirk",
+      "fax": "(204) 785-9807",
+      "name": "Rexall Pharma Plus #4950 ",
+      "license": " 10753",
+      "address": "366 Main Street",
+      "postal": "R1A 2J7"
+    }
+  },
+  "241": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 888-2098",
+      "name": "Rexall Pharma Plus #4960 ",
+      "license": " 11428",
+      "address": "3051 Ness Avenue",
+      "postal": "R2Y 0G1"
+    }
+  },
+  "242": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 261-4566",
+      "name": "Rexall Pharma Plus #4994 ",
+      "license": " 11451",
+      "address": "2271 Pembina Highway",
+      "postal": "R3T 2H1"
+    }
+  },
+  "243": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 339-9800",
+      "name": "River East Pharmacy ",
+      "license": " 33749",
+      "address": "1417A Henderson Highway",
+      "postal": "R2G 1N3"
+    }
+  },
+  "244": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 284-1446",
+      "name": "River Heights Pharmacy ",
+      "license": " 34603",
+      "address": "1425 Corydon Avenue, Suite 101A",
+      "postal": "R3N 2C7"
+    }
+  },
+  "245": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 885-3233",
+      "name": "River West Pharmacy ",
+      "license": " 33804",
+      "address": "Unit 5 - 6500 Roblin Blvd.",
+      "postal": "R3R 3P9"
+    }
+  },
+  "246": {
+    "pharmacy": {
+      "province": "",
+      "city": "Riverton",
+      "fax": "(204) 378-5165",
+      "name": "Riverton Pharmacy ",
+      "license": " 33770",
+      "address": "Box 358, Unit B, 78 Main Street",
+      "postal": "R0C 2R0"
+    }
+  },
+  "247": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 452-7704",
+      "name": "Riverview Health Centre Dispensary ",
+      "license": " 12700",
+      "address": "1 Morley Avenue",
+      "postal": "R3L 2P4"
+    }
+  },
+  "248": {
+    "pharmacy": {
+      "province": "",
+      "city": "Roblin",
+      "fax": "(204) 629-3453",
+      "name": "Roblin District Health Centre Pharmacy ",
+      "license": " 12902",
+      "address": "15 Hospital Street",
+      "postal": "R0L 1P0"
+    }
+  },
+  "249": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 691-7778",
+      "name": "Ronald Pharmacy ",
+      "license": " 34434",
+      "address": "4-2727 Portage Avenue",
+      "postal": "R3J 0R2"
+    }
+  },
+  "250": {
+    "pharmacy": {
+      "province": "",
+      "city": "Rossburn",
+      "fax": "(204) 859-3002",
+      "name": "Rossburn Pharmacy ",
+      "license": " 13071",
+      "address": "23 Main Street N.",
+      "postal": "R0J 1V0"
+    }
+  },
+  "251": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Brandon",
+      "fax": "(204) 727-8125",
+      "name": "Rosser Pharmacy ",
+      "license": " 31756",
+      "address": "841 Rosser Avenue",
+      "postal": "R7A 0L1"
+    }
+  },
+  "252": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 615-6052",
+      "name": "Rossmere Pharmacy ",
+      "license": " 34715",
+      "address": "Unit D - 1046 Henderson Highway",
+      "postal": "R2K 2M5"
+    }
+  },
+  "253": {
+    "pharmacy": {
+      "province": "",
+      "city": "Russell",
+      "fax": "(204) 773-2889",
+      "name": "Russell Health District Pharmacy ",
+      "license": " 12036",
+      "address": "426 Alexandria Avenue S.",
+      "postal": "R0J 1W0"
+    }
+  },
+  "254": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 944-1207",
+      "name": "Rx Pharmacy Solutions ",
+      "license": " 34850",
+      "address": "Unit F - 228 Waterfront Drive",
+      "postal": "R3B 0C5"
+    }
+  },
+  "255": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 942-3356",
+      "name": "Safety Drugs ",
+      "license": " 12047",
+      "address": "101 - 355 Ellice Avenue",
+      "postal": "R3B 1X8"
+    }
+  },
+  "256": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 338-0291",
+      "name": "Safeway Food And Drug Pharmacy #4821 ",
+      "license": " 33769",
+      "address": "1441 Henderson Highway",
+      "postal": "R2G 1N4"
+    }
+  },
+  "257": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 774-9748",
+      "name": "Safeway Food And Drug Pharmacy #4822 ",
+      "license": " 10292",
+      "address": "1612 Ness Avenue",
+      "postal": "R3J 0H7"
+    }
+  },
+  "258": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 786-2397",
+      "name": "Safeway Food And Drug Pharmacy #4823 ",
+      "license": " 10416",
+      "address": "600 Sargent Avenue",
+      "postal": "R3E 0A1"
+    }
+  },
+  "259": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 589-6011",
+      "name": "Safeway Food And Drug Pharmacy #4824 ",
+      "license": " 31408",
+      "address": "594 Mountain Avenue",
+      "postal": "R2W 1L2"
+    }
+  },
+  "260": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 452-4245",
+      "name": "Safeway Food And Drug Pharmacy #4826 ",
+      "license": " 31475",
+      "address": "1319 Pembina Highway",
+      "postal": "R3T 2B6"
+    }
+  },
+  "261": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Selkirk",
+      "fax": "(204) 482-9040",
+      "name": "Safeway Food And Drug Pharmacy #4828 ",
+      "license": " 31936",
+      "address": "318 Manitoba Avenue",
+      "postal": "R1A 0Y7"
+    }
+  },
+  "262": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Brandon",
+      "fax": "(204) 726-9219",
+      "name": "Safeway Food And Drug Pharmacy #4829 ",
+      "license": " 12788",
+      "address": "921-18th Street N.",
+      "postal": "R7A 7S1"
+    }
+  },
+  "263": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Thompson",
+      "fax": "(204) 677-5828",
+      "name": "Safeway Food And Drug Pharmacy #4832 ",
+      "license": " 31846",
+      "address": "300 Mystery Lake Road",
+      "postal": "R8N 0M2"
+    }
+  },
+  "264": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 237-1192",
+      "name": "Safeway Food And Drug Pharmacy #4842 ",
+      "license": " 10393",
+      "address": "285 Marion Street",
+      "postal": "R2H 0T8"
+    }
+  },
+  "265": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 453-7126",
+      "name": "Safeway Food And Drug Pharmacy #4844 ",
+      "license": " 10348",
+      "address": "655 Osborne Street",
+      "postal": "R3L 2B7"
+    }
+  },
+  "266": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 269-8895",
+      "name": "Safeway Food And Drug Pharmacy #4847 ",
+      "license": " 10258",
+      "address": "2155 Pembina Highway",
+      "postal": "R3T 2H1"
+    }
+  },
+  "267": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 632-0408",
+      "name": "Safeway Food And Drug Pharmacy #4848 ",
+      "license": " 10337",
+      "address": "850 Keewatin Street",
+      "postal": "R2R 0Z5"
+    }
+  },
+  "268": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 488-4842",
+      "name": "Safeway Food And Drug Pharmacy #4849 ",
+      "license": " 31925",
+      "address": "2025 Corydon Avenue",
+      "postal": "R3P 0N5"
+    }
+  },
+  "269": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 889-0824",
+      "name": "Safeway Food And Drug Pharmacy #4851 ",
+      "license": " 10359",
+      "address": "3393 Portage Avenue",
+      "postal": "R3K 2G7"
+    }
+  },
+  "270": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 697-9015",
+      "name": "Safeway Food And Drug Pharmacy #4853 ",
+      "license": " 10315",
+      "address": "920 Jefferson Avenue",
+      "postal": "R2P 1W1"
+    }
+  },
+  "271": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 896-5782",
+      "name": "Safeway Food And Drug Pharmacy #4854 ",
+      "license": " 10304",
+      "address": "3900 Grant Avenue",
+      "postal": "R3R 3C2"
+    }
+  },
+  "272": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 663-2264",
+      "name": "Safeway Food And Drug Pharmacy #4855 ",
+      "license": " 10360",
+      "address": "500-1615 Regent Avenue W.",
+      "postal": "R2C 5C6"
+    }
+  },
+  "273": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 257-7281",
+      "name": "Safeway Food And Drug Pharmacy #4856 ",
+      "license": " 10405",
+      "address": "2 Alpine Avenue",
+      "postal": "R2M 0Y5"
+    }
+  },
+  "274": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 224-3824",
+      "name": "Safeway Food And Drug Pharmacy #4857 ",
+      "license": " 12867",
+      "address": "654 Kildare Avenue E.",
+      "postal": "R2C 0P6"
+    }
+  },
+  "275": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 489-9788",
+      "name": "Safeway Food And Drug Pharmacy #4859 ",
+      "license": " 31969",
+      "address": "1625 Kenaston Blvd",
+      "postal": "R3P 2M4"
+    }
+  },
+  "276": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 474-2407",
+      "name": "Safeway Food And Drug Pharmacy #4867 ",
+      "license": " 31914",
+      "address": "499 River Avenue",
+      "postal": "R3L 0C9"
+    }
+  },
+  "277": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 256-5533",
+      "name": "Santa Maria Pharmacy ",
+      "license": " 33703",
+      "address": "1599 St. Mary's Road",
+      "postal": "R2M 3W3"
+    }
+  },
+  "278": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 452-0285",
+      "name": "Save-On-Foods Pharmacy #4405 - Bridgwater ",
+      "license": " 34793",
+      "address": "#410 - 400 North Town Road",
+      "postal": "R3Y 0Y3"
+    }
+  },
+  "279": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 334-9593",
+      "name": "Save-On-Foods Pharmacy #4410 - Northgate ",
+      "license": " 34805",
+      "address": "1399 McPhillips Street",
+      "postal": "R2V 3C4"
+    }
+  },
+  "280": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 783-9329",
+      "name": "Save-On-Foods Pharmacy #4415 - St. James ",
+      "license": " 34816",
+      "address": "850 St. James Street",
+      "postal": "R3G 3L7"
+    }
+  },
+  "281": {
+    "pharmacy": {
+      "province": "",
+      "city": "Swan River",
+      "fax": "(204) 734-3284",
+      "name": "Scales Drug Store ",
+      "license": " 12069",
+      "address": "900 Main Street E. Box 220",
+      "postal": "R0L 1Z0"
+    }
+  },
+  "282": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Selkirk",
+      "fax": "(204) 785-4428",
+      "name": "Selkirk Mental Health Centre Pharmacy ",
+      "license": " 12081",
+      "address": "P.O. Box 9600",
+      "postal": "R1A 2B5"
+    }
+  },
+  "283": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Selkirk",
+      "fax": "(204) 785-2088",
+      "name": "Selkirk Regional Health Centre Pharmacy ",
+      "license": " 34940",
+      "address": "120 Easton Drive",
+      "postal": "R1A 2M2"
+    }
+  },
+  "284": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 452-3815",
+      "name": "Serenity Pharmacy ",
+      "license": " 34366",
+      "address": "1189 Pembina Highway",
+      "postal": "R3T 2A5"
+    }
+  },
+  "285": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 632-3685",
+      "name": "Seven Oaks General Hospital Pharmacy ",
+      "license": " 12092",
+      "address": "2300 McPhillips Street",
+      "postal": "R2V 3M3"
+    }
+  },
+  "286": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Shoal Lake",
+      "fax": "(204) 759-2505",
+      "name": "Shoal Lake Pharmacy Ltd. ",
+      "license": " 10887",
+      "address": "Box 119, 355 Station Road",
+      "postal": "R0J 1Z0"
+    }
+  },
+  "287": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 775-5244",
+      "name": "Shoppers Drug Mart #2404 ",
+      "license": " 32803",
+      "address": "917 Portage Avenue",
+      "postal": "R3G 0P6"
+    }
+  },
+  "288": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 896-3884",
+      "name": "Shoppers Drug Mart #2406 ",
+      "license": " 32634",
+      "address": "2533 Portage Avenue",
+      "postal": "R3J 0P1"
+    }
+  },
+  "289": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 231-4012",
+      "name": "Shoppers Drug Mart #2414 ",
+      "license": " 12474",
+      "address": "409 Tache Avenue",
+      "postal": "R2H 2A6"
+    }
+  },
+  "290": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winkler",
+      "fax": "(204) 325-1981",
+      "name": "Shoppers Drug Mart #2419 ",
+      "license": " 11833",
+      "address": "777 Norquay Drive",
+      "postal": "R6W 2S2"
+    }
+  },
+  "291": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 589-8699",
+      "name": "Shoppers Drug Mart #2421 ",
+      "license": " 11574",
+      "address": "1017 McPhillips Street",
+      "postal": "R2X 2K6"
+    }
+  },
+  "292": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 786-1913",
+      "name": "Shoppers Drug Mart #2422 ",
+      "license": " 33118",
+      "address": "777 Sherbrook Street W.",
+      "postal": "R3A 1M2"
+    }
+  },
+  "293": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Brandon",
+      "fax": "(204) 727-4676",
+      "name": "Shoppers Drug Mart #2424 ",
+      "license": " 33129",
+      "address": "139 Victoria Avenue East",
+      "postal": "R7A 1Z1"
+    }
+  },
+  "294": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 254-6703",
+      "name": "Shoppers Drug Mart #2428 ",
+      "license": " 33130",
+      "address": "710 St. Anne's Road",
+      "postal": "R2N 0A2"
+    }
+  },
+  "295": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 831-5229",
+      "name": "Shoppers Drug Mart #2444 ",
+      "license": " 33220",
+      "address": "6670 Roblin Blvd.",
+      "postal": "R3R 1X1"
+    }
+  },
+  "296": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 284-5729",
+      "name": "Shoppers Drug Mart #2460 ",
+      "license": " 33376",
+      "address": "1122 Pembina Highway",
+      "postal": "R3T 2A2"
+    }
+  },
+  "297": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 669-1998",
+      "name": "Shoppers Drug Mart #2501 ",
+      "license": " 33499",
+      "address": "100-1155 Concordia Avenue",
+      "postal": "R2K 2M9"
+    }
+  },
+  "298": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 254-8271",
+      "name": "Shoppers Drug Mart #2502 ",
+      "license": " 34614",
+      "address": "700-50 Sage Creek Blvd.",
+      "postal": "R3X 0J6"
+    }
+  },
+  "299": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 334-6332",
+      "name": "Shoppers Drug Mart #2505 ",
+      "license": " 33556",
+      "address": "2512 Main Street",
+      "postal": "R2V 4Y1"
+    }
+  },
+  "300": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 222-3453",
+      "name": "Shoppers Drug Mart #2511 ",
+      "license": " 34401",
+      "address": "1750 Plessis Road",
+      "postal": "R3W 0H5"
+    }
+  },
+  "301": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 487-4557",
+      "name": "Shoppers Drug Mart #2514 ",
+      "license": " 33949",
+      "address": "2160 McGillivray Blvd.",
+      "postal": "R3Y 1S6"
+    }
+  },
+  "302": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Teulon",
+      "fax": "(204) 886-3306",
+      "name": "Shoppers Drug Mart #2516 ",
+      "license": " 10630",
+      "address": "Box 12, 44 Main Street",
+      "postal": "R0C 3B0"
+    }
+  },
+  "303": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "The Pas",
+      "fax": "(204) 623-5854",
+      "name": "Shoppers Drug Mart #2517 ",
+      "license": " 11686",
+      "address": "333 Edwards Avenue, Woodlands Post Office",
+      "postal": "R9A 2K0"
+    }
+  },
+  "304": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 339-1550",
+      "name": "Shoppers Drug Mart #530 ",
+      "license": " 12182",
+      "address": "1050 Leila Avenue",
+      "postal": "R2P 1W6"
+    }
+  },
+  "305": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 261-1931",
+      "name": "Shoppers Drug Mart #532 ",
+      "license": " 12216",
+      "address": "2656 Pembina Highway",
+      "postal": "R3T 2H6"
+    }
+  },
+  "306": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 582-0248",
+      "name": "Shoppers Drug Mart #533 ",
+      "license": " 12193",
+      "address": "Unit C - 1155 Main Street",
+      "postal": "R2W 3S4"
+    }
+  },
+  "307": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 889-7124",
+      "name": "Shoppers Drug Mart #534 ",
+      "license": " 12238",
+      "address": "3665 Portage Avenue",
+      "postal": "R3K 2G6"
+    }
+  },
+  "308": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 452-9319",
+      "name": "Shoppers Drug Mart #535 ",
+      "license": " 12249",
+      "address": "43 Osborne Street",
+      "postal": "R3L 1Y2"
+    }
+  },
+  "309": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 275-2303",
+      "name": "Shoppers Drug Mart #537 ",
+      "license": " 12126",
+      "address": "2211 Pembina Highway",
+      "postal": "R3T 2H1"
+    }
+  },
+  "310": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 254-4688",
+      "name": "Shoppers Drug Mart #538 ",
+      "license": " 12160",
+      "address": "1-785 Dakota Street",
+      "postal": "R2M 5M3"
+    }
+  },
+  "311": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 663-0678",
+      "name": "Shoppers Drug Mart #539 ",
+      "license": " 11250",
+      "address": "#32-1555 Regent Avenue W.",
+      "postal": "R2C 4J2"
+    }
+  },
+  "312": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 943-6838",
+      "name": "Shoppers Drug Mart #540 ",
+      "license": " 12171",
+      "address": "2-360 Main Street",
+      "postal": "R3C 3Z8"
+    }
+  },
+  "313": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 487-2890",
+      "name": "Shoppers Drug Mart #542 ",
+      "license": " 12205",
+      "address": "2025 Corydon Avenue",
+      "postal": "R3P 0N5"
+    }
+  },
+  "314": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Portage La Prairie",
+      "fax": "(204) 857-9251",
+      "name": "Shoppers Drug Mart #544 ",
+      "license": " 12159",
+      "address": "124 Saskatchewan Avenue E.",
+      "postal": "R1N 0L1"
+    }
+  },
+  "315": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Steinbach",
+      "fax": "(204) 346-9861",
+      "name": "Shoppers Drug Mart #545 ",
+      "license": " 12137",
+      "address": "382 Main Street",
+      "postal": "R5G 1Z5"
+    }
+  },
+  "316": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Selkirk",
+      "fax": "(204) 785-2213",
+      "name": "Shoppers Drug Mart #546 ",
+      "license": " 12272",
+      "address": "230 Main Street",
+      "postal": "R1A 1R9"
+    }
+  },
+  "317": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 233-1973",
+      "name": "Shoppers Drug Mart #547 ",
+      "license": " 12115",
+      "address": "43 Marion Street",
+      "postal": "R2H 0S8"
+    }
+  },
+  "318": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 475-3701",
+      "name": "Shoppers Drug Mart #548 ",
+      "license": " 12283",
+      "address": "6000-1120 Grant Avenue",
+      "postal": "R3M 2A6"
+    }
+  },
+  "319": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Thompson",
+      "fax": "(204) 778-3776",
+      "name": "Shoppers Drug Mart #549 ",
+      "license": " 12294",
+      "address": "17 Selkirk Avenue",
+      "postal": "R8N 0M5"
+    }
+  },
+  "320": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 775-2545",
+      "name": "Shoppers Drug Mart #551 ",
+      "license": " 12924",
+      "address": "L178, 1485 Portage Avenue",
+      "postal": "R3G 0W4"
+    }
+  },
+  "321": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 943-5507",
+      "name": "Shoppers Drug Mart #552 ",
+      "license": " 10685",
+      "address": "125-393 Portage Avenue",
+      "postal": "R3B 3H6"
+    }
+  },
+  "322": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 888-5716",
+      "name": "Shoppers Drug Mart #553 ",
+      "license": " 31329",
+      "address": "1A - 3900 Grant Avenue",
+      "postal": "R3R 3C2"
+    }
+  },
+  "323": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 779-1998",
+      "name": "Shoppers Drug Mart #554 ",
+      "license": " 31497",
+      "address": "790 Sherbrook Street",
+      "postal": "R3A 1M3"
+    }
+  },
+  "324": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Brandon",
+      "fax": "(204) 725-3306",
+      "name": "Shoppers Drug Mart #555 ",
+      "license": " 31790",
+      "address": "#3-1350 18th Street",
+      "postal": "R7A 5C4"
+    }
+  },
+  "325": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 339-3806",
+      "name": "Shoppers Drug Mart #556 ",
+      "license": " 12227",
+      "address": "50-1128 Henderson Highway",
+      "postal": "R2G 3Z7"
+    }
+  },
+  "326": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Morden",
+      "fax": "(204) 822-1342",
+      "name": "Shoppers Drug Mart #557 ",
+      "license": " 11530",
+      "address": "302 North Railway Street",
+      "postal": "R6M 1S7"
+    }
+  },
+  "327": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 694-8520",
+      "name": "Shoppers Drug Mart #559 ",
+      "license": " 32049",
+      "address": "795 Keewatin Street",
+      "postal": "R2X 3B9"
+    }
+  },
+  "328": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 256-5575",
+      "name": "Shoppers Drug Mart #561 ",
+      "license": " 33602",
+      "address": "100-235 Vermillion Road",
+      "postal": "R2J 3Z7"
+    }
+  },
+  "329": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Steinbach",
+      "fax": "(204) 346-1088",
+      "name": "Shoppers Drug Mart Bethesda Hospital Pharmacy ",
+      "license": " 10135",
+      "address": "316 Henry Street",
+      "postal": "R5G 0P9"
+    }
+  },
+  "330": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 895-0700",
+      "name": "Silver Heights Pharmacy ",
+      "license": " 34737",
+      "address": "4 - 2015 Portage Avenue",
+      "postal": "R3J 0K3"
+    }
+  },
+  "331": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Snow Lake",
+      "fax": "(204) 358-2888",
+      "name": "Snow Lake Pharmacy ",
+      "license": " 34344",
+      "address": "Box 869, 79 Balsam Street",
+      "postal": "R0B 1M0"
+    }
+  },
+  "332": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "East St. Paul",
+      "fax": "(204) 654-2283",
+      "name": "Sobeys Bird's Hill Pharmacy ",
+      "license": " 33848",
+      "address": "P.O. Box 38108",
+      "postal": "R2E 1H3"
+    }
+  },
+  "333": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 474-2418",
+      "name": "Sobeys Grant Park Pharmacy ",
+      "license": " 32566",
+      "address": "1150 Taylor Avenue",
+      "postal": "R3M 3Z4"
+    }
+  },
+  "334": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 489-4209",
+      "name": "Sobeys Kenaston Pharmacy ",
+      "license": " 32072",
+      "address": "1660 Kenaston Blvd.",
+      "postal": "R3P 2M6"
+    }
+  },
+  "335": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 668-3396",
+      "name": "Sobeys Northdale Pharmacy ",
+      "license": " 32027",
+      "address": "965 Henderson Highway",
+      "postal": "R2K 2M3"
+    }
+  },
+  "336": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 261-5088",
+      "name": "Sobeys Pharmacy #5037 (Pembina) ",
+      "license": " 34669",
+      "address": "2850 Pembina Highway",
+      "postal": "R3T 6E4"
+    }
+  },
+  "337": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Brandon",
+      "fax": "(204) 726-9232",
+      "name": "Sobeys Pharmacy Brandon South #5105 ",
+      "license": " 34489",
+      "address": "1645B - 18th Street",
+      "postal": "R7A 5C6"
+    }
+  },
+  "338": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 222-6757",
+      "name": "Sobeys Pharmacy Plessis ",
+      "license": " 11709",
+      "address": "50 Kildonan Green Drive",
+      "postal": "R3W 0H1"
+    }
+  },
+  "339": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 669-5740",
+      "name": "Sobeys Reenders Square Pharmacy ",
+      "license": " 33950",
+      "address": "7 Reenders Drive",
+      "postal": "R2C 5K5"
+    }
+  },
+  "340": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 339-1146",
+      "name": "Sobeys Rivergrove Pharmacy ",
+      "license": " 33837",
+      "address": "2575 Main Street",
+      "postal": "R2V 4G4"
+    }
+  },
+  "341": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 254-5705",
+      "name": "Sobeys St. Anne's Pharmacy ",
+      "license": " 32038",
+      "address": "1939 Bishop Grandin Blvd.",
+      "postal": "R2M 5S1"
+    }
+  },
+  "342": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 256-1400",
+      "name": "Sobeys St. Vital Pharmacy ",
+      "license": " 13082",
+      "address": "1500 Dakota Street",
+      "postal": "R2N 3Y7"
+    }
+  },
+  "343": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Steinbach",
+      "fax": "(204) 326-3450",
+      "name": "Sobeys Steinbach Pharmacy ",
+      "license": " 11103",
+      "address": "Unit 1 - 178 PTH 12N",
+      "postal": "R5G 1T7"
+    }
+  },
+  "344": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 832-8927",
+      "name": "Sobeys Unicity Pharmacy ",
+      "license": " 32139",
+      "address": "3635 Portage Avenue",
+      "postal": "R3K 2G6"
+    }
+  },
+  "345": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 504-9773",
+      "name": "South Point Pharmacy ",
+      "license": " 33871",
+      "address": "103-1151 Pembina Highway",
+      "postal": "R3T 2A3"
+    }
+  },
+  "346": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 774-8759",
+      "name": "South Sherbrook Pharmacy ",
+      "license": " 32993",
+      "address": "Unit B, 88 Sherbrook Street",
+      "postal": "R3C 2B3"
+    }
+  },
+  "347": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Steinbach",
+      "fax": "(204) 346-3663",
+      "name": "Southeast Wellness Pharmacy Inc. ",
+      "license": " 32151",
+      "address": "116-C Park Road West",
+      "postal": "R5G 1V6"
+    }
+  },
+  "348": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winkler",
+      "fax": "(204) 325-1707",
+      "name": "Southern Health - Santé Sud LTC Pharmacy ",
+      "license": " 34748",
+      "address": "Unit 5, 394 2nd Street",
+      "postal": "R6W 2R5"
+    }
+  },
+  "349": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "St. Adolphe",
+      "fax": "(204) 883-2284",
+      "name": "St. Adolphe Pharmacy ",
+      "license": " 34456",
+      "address": "P.O. Box 394, 457 Main Street",
+      "postal": "R5A 1A2"
+    }
+  },
+  "350": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 258-7072",
+      "name": "St. Amant Inc. Pharmacy Department ",
+      "license": " 12328",
+      "address": "440 River Road",
+      "postal": "R2M 3Z9"
+    }
+  },
+  "351": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 235-3799",
+      "name": "St. Boniface Hospital Pharmacy ",
+      "license": " 12339",
+      "address": "409 Tache Avenue",
+      "postal": "R2H 2A6"
+    }
+  },
+  "352": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 415-3760",
+      "name": "St. Boniface Pharmacy ",
+      "license": " 33758",
+      "address": "172 Marion Street",
+      "postal": "R2H 0T4"
+    }
+  },
+  "353": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "St. Claude",
+      "fax": "(204) 379-2905",
+      "name": "St. Claude Clinic Pharmacy ",
+      "license": " 12340",
+      "address": "Box 235, 109 Aspen Avenue S.",
+      "postal": "R0G 1Z0"
+    }
+  },
+  "354": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "St. Laurent",
+      "fax": "(204) 646-2260",
+      "name": "St. Laurent Pharmacy ",
+      "license": " 34557",
+      "address": "Box 355",
+      "postal": "R0C 2S0"
+    }
+  },
+  "355": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "St. Malo",
+      "fax": "(204) 347-5653",
+      "name": "St. Malo Pharmacy Ltd. ",
+      "license": " 34085",
+      "address": "131 St. Malo Street, P.O. Box 70",
+      "postal": "R0A 1T0"
+    }
+  },
+  "356": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 474-1983",
+      "name": "Stafford Pharmacy ",
+      "license": " 34759",
+      "address": "395 Stafford Street",
+      "postal": "R3M 2X4"
+    }
+  },
+  "357": {
+    "pharmacy": {
+      "province": "",
+      "city": "Ste. Rose Du Lac",
+      "fax": "(204) 629-3458",
+      "name": "Ste. Rose Health Centre Inc. Pharmacy ",
+      "license": " 12362",
+      "address": "480-3rd Avenue S.E.",
+      "postal": "R0L 1S0"
+    }
+  },
+  "358": {
+    "pharmacy": {
+      "province": "",
+      "city": "Ste. Rose Du Lac",
+      "fax": "(204) 447-3424",
+      "name": "Ste. Rose Super Thrifty Pharmacy ",
+      "license": " 10618",
+      "address": "608 Central Avenue, Box 250",
+      "postal": "R0L 1S0"
+    }
+  },
+  "359": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 789-3541",
+      "name": "Steele's Apothecary ",
+      "license": " 11518",
+      "address": "750 McDermot Avenue, Apotex Cent., College of Pharmacy, Faculty of Health Sciences",
+      "postal": "R3E 0T5"
+    }
+  },
+  "360": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Steinbach",
+      "fax": "(204) 326-6420",
+      "name": "Steinbach Primary Care Pharmacy ",
+      "license": " 34467",
+      "address": "333 Loewen Blvd.",
+      "postal": "R5G 0C3"
+    }
+  },
+  "361": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Swan Lake",
+      "fax": "(204) 836-2891",
+      "name": "Stevenson's Pharmacy ",
+      "license": " 12395",
+      "address": "18 Lorne Avenue",
+      "postal": "R0G 2S0"
+    }
+  },
+  "362": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Stonewall",
+      "fax": "(204) 467-7389",
+      "name": "Stonewall Pharmacy Ltd. ",
+      "license": " 12418",
+      "address": "Unit 17, 333 Main St., PO Box 340",
+      "postal": "R0C 2Z0"
+    }
+  },
+  "363": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Stony Mountain",
+      "fax": "(204) 344-0286",
+      "name": "Stony Mountain Pharmacy ",
+      "license": " 34355",
+      "address": "Box 489, 5 Main Street",
+      "postal": "R0C 3A0"
+    }
+  },
+  "364": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "The Pas",
+      "fax": "(204) 623-2812",
+      "name": "Super Thrifty Drug Mart The Pas ",
+      "license": " 12496",
+      "address": "Box 930, Station Main, Otineka Mall",
+      "postal": "R9A 1P8"
+    }
+  },
+  "365": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Brandon",
+      "fax": "(204) 727-3382",
+      "name": "Super Thrifty Pharmacy ",
+      "license": " 10012",
+      "address": "1100 Richmond Avenue",
+      "postal": "R7A 1M6"
+    }
+  },
+  "366": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Dauphin",
+      "fax": "(204) 638-8273",
+      "name": "Super Thrifty Pharmacy Dauphin ",
+      "license": " 10562",
+      "address": "224 Main Street N.",
+      "postal": "R7N 1C4"
+    }
+  },
+  "367": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Hamiota",
+      "fax": "(204) 764-2276",
+      "name": "Super Thrifty Pharmacy Hamiota ",
+      "license": " 10821",
+      "address": "38 - 4th Street S.E.",
+      "postal": "R0M 0T0"
+    }
+  },
+  "368": {
+    "pharmacy": {
+      "province": "",
+      "city": "Rivers",
+      "fax": "(204) 328-7123",
+      "name": "Super Thrifty Pharmacy Rivers ",
+      "license": " 11990",
+      "address": "501 - 2nd Avenue, Box 699",
+      "postal": "R0K 1X0"
+    }
+  },
+  "369": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Selkirk",
+      "fax": "(204) 785-1958",
+      "name": "Super Thrifty Pharmacy Selkirk ",
+      "license": " 10775",
+      "address": "362 Eveline Street",
+      "postal": "R1A 1N3"
+    }
+  },
+  "370": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Virden",
+      "fax": "(204) 748-1878",
+      "name": "Super Thrifty Pharmacy Virden ",
+      "license": " 12621",
+      "address": "333 - 7th Avenue S.",
+      "postal": "R0M 2C0"
+    }
+  },
+  "371": {
+    "pharmacy": {
+      "province": "",
+      "city": "Swan River",
+      "fax": "(204) 734-5232",
+      "name": "Swan Health Care Plus Pharmacy ",
+      "license": " 11844",
+      "address": "615 Main Street, Box 2080",
+      "postal": "R0L 1Z0"
+    }
+  },
+  "372": {
+    "pharmacy": {
+      "province": "",
+      "city": "Swan River",
+      "fax": "(204) 629-3485",
+      "name": "Swan Valley Health Centre Pharmacy ",
+      "license": " 12429",
+      "address": "1011 Main Street E., Box 1450",
+      "postal": "R0L 1Z0"
+    }
+  },
+  "373": {
+    "pharmacy": {
+      "province": "",
+      "city": "Swan River",
+      "fax": "(204) 734-6360",
+      "name": "Swan Valley Pharmacy ",
+      "license": " 32083",
+      "address": "Box 2200, 811 Main Street E.",
+      "postal": "R0L 1Z0"
+    }
+  },
+  "374": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 231-1739",
+      "name": "Tache Pharmacy ",
+      "license": " 12452",
+      "address": "400 Tache Avenue",
+      "postal": "R2H 3C3"
+    }
+  },
+  "375": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 633-2244",
+      "name": "Tache Pharmacy at Seven Oaks Hospital ",
+      "license": " 33860",
+      "address": "Main Floor, 2300 McPhillips Street",
+      "postal": "R2V 3M3"
+    }
+  },
+  "376": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Gimli",
+      "fax": "(204) 642-4606",
+      "name": "Taylor Pharmacy Ltd. ",
+      "license": " 12463",
+      "address": "50 Center Street",
+      "postal": "R0C 1B0"
+    }
+  },
+  "377": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 233-6655",
+      "name": "The Compounding Pharmacy of Manitoba ",
+      "license": " 33859",
+      "address": "106 Terracon Place",
+      "postal": "R2J 4G7"
+    }
+  },
+  "378": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 988-4833",
+      "name": "The Medicine Shoppe Pharmacy #133 ",
+      "license": " 31554",
+      "address": "1881 Portage Avenue",
+      "postal": "R3J 0H3"
+    }
+  },
+  "379": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 661-1949",
+      "name": "The Medicine Shoppe Pharmacy #278 ",
+      "license": " 33534",
+      "address": "115-1100 Concordia Avenue",
+      "postal": "R2K 4B8"
+    }
+  },
+  "380": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 275-7855",
+      "name": "The Medicine Shoppe Pharmacy #290 ",
+      "license": " 33657",
+      "address": "101-2800 Pembina Highway",
+      "postal": "R3T 5P3"
+    }
+  },
+  "381": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 885-4513",
+      "name": "The Medicine Shoppe Pharmacy #305 ",
+      "license": " 33725",
+      "address": "1765 Portage Avenue",
+      "postal": "R3J 0E7"
+    }
+  },
+  "382": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 339-8787",
+      "name": "The Medicine Shoppe Pharmacy #313 ",
+      "license": " 33792",
+      "address": "Unit 10 - 1399 McPhillips Street",
+      "postal": "R2V 3C4"
+    }
+  },
+  "383": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 421-9210",
+      "name": "The Medicine Shoppe Pharmacy #319 ",
+      "license": " 33815",
+      "address": "1510 St. Mary's Road, Unit D",
+      "postal": "R2M 3V7"
+    }
+  },
+  "384": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Brandon",
+      "fax": "(204) 717-7202",
+      "name": "The Medicine Shoppe Pharmacy #329 ",
+      "license": " 33905",
+      "address": "Unit #3, 547-8th Street",
+      "postal": "R7A 3X8"
+    }
+  },
+  "385": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 504-9334",
+      "name": "The Medicine Shoppe Pharmacy #331 ",
+      "license": " 33938",
+      "address": "Unit 1A - 660 Osborne Street",
+      "postal": "R3L 2B6"
+    }
+  },
+  "386": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "The Pas",
+      "fax": "(204) 623-4662",
+      "name": "The Pas Health Complex Pharmacy ",
+      "license": " 12485",
+      "address": "67 First Street W., P.O. Box 240",
+      "postal": "R9A 1K4"
+    }
+  },
+  "387": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 475-0017",
+      "name": "The Prescription Shop #1 ",
+      "license": " 13239",
+      "address": "2-165 Osborne Street",
+      "postal": "R3L 1Y7"
+    }
+  },
+  "388": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 224-9503",
+      "name": "The Prescription Shop #2 ",
+      "license": " 31420",
+      "address": "218 Regent Avenue W.",
+      "postal": "R2C 1R2"
+    }
+  },
+  "389": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 944-0957",
+      "name": "The Prescription Shop #3 ",
+      "license": " 12845",
+      "address": "#3-555 Balmoral Street",
+      "postal": "R3B 2R2"
+    }
+  },
+  "390": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 783-6603",
+      "name": "The Prescription Shop #4 ",
+      "license": " 13058",
+      "address": "100-825 Sherbrook Street",
+      "postal": "R3A 1M5"
+    }
+  },
+  "391": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 697-5919",
+      "name": "TheCanadianPharmacy.com & AccuScreen ",
+      "license": " 32588",
+      "address": "Suite 103 -1780 Wellington Avenue",
+      "postal": "R3H 1B3"
+    }
+  },
+  "392": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Thompson",
+      "fax": "(204) 778-1407",
+      "name": "Thompson General Hospital Pharmacy ",
+      "license": " 12542",
+      "address": "871 Thompson Drive S.",
+      "postal": "R8N 0C8"
+    }
+  },
+  "393": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Treherne",
+      "fax": "(204) 723-2334",
+      "name": "Treherne Pharmacy ",
+      "license": " 11888",
+      "address": "Box 87, 206 Railway Avenue",
+      "postal": "R0G 2V0"
+    }
+  },
+  "394": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 615-2490",
+      "name": "True North Meds Inc. ",
+      "license": " 34861",
+      "address": "301 Nassau Street N.",
+      "postal": "R3L 2J5"
+    }
+  },
+  "395": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 474-7572",
+      "name": "University Centre Pharmacy ",
+      "license": " 12575",
+      "address": "Rm.111, Univ. Centre Bldg., University Of Manitoba",
+      "postal": "R3T 2N2"
+    }
+  },
+  "396": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Morris",
+      "fax": "(204) 746-6072",
+      "name": "Valley Super Thrifty Pharmacy ",
+      "license": " 12586",
+      "address": "212 Main Street N.",
+      "postal": "R0G 1K0"
+    }
+  },
+  "397": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 261-1361",
+      "name": "Victoria General Hospital Pharmacy ",
+      "license": " 12597",
+      "address": "2340 Pembina Highway",
+      "postal": "R3T 2E8"
+    }
+  },
+  "398": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 774-9165",
+      "name": "Videl Pharmacy Ltd. ",
+      "license": " 12609",
+      "address": "709 Sargent Avenue",
+      "postal": "R3E 0B1"
+    }
+  },
+  "399": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Virden",
+      "fax": "(204) 748-1920",
+      "name": "Virden Drugs ",
+      "license": " 11158",
+      "address": "310 King Street E., Box 997",
+      "postal": "R0M 2C0"
+    }
+  },
+  "400": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winkler",
+      "fax": "(204) 325-4775",
+      "name": "Wal-Mart Pharmacy #1022 ",
+      "license": " 32926",
+      "address": "1000 Navigator Road",
+      "postal": "R6W 4B6"
+    }
+  },
+  "401": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Selkirk",
+      "fax": "(204) 785-9213",
+      "name": "Wal-Mart Pharmacy #1027 ",
+      "license": " 32982",
+      "address": "1016 Manitoba Avenue",
+      "postal": "R1A 4M1"
+    }
+  },
+  "402": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Steinbach",
+      "fax": "(204) 326-1538",
+      "name": "Wal-Mart Pharmacy #1141 ",
+      "license": " 34120",
+      "address": "184 PTH #12 North",
+      "postal": "R5G 0Y1"
+    }
+  },
+  "403": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 992-9761",
+      "name": "Wal-Mart Pharmacy #1186 ",
+      "license": " 34513",
+      "address": "1000 Taylor Avenue",
+      "postal": "R3M 3Z4"
+    }
+  },
+  "404": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 257-5954",
+      "name": "Wal-Mart Pharmacy #1204 ",
+      "license": " 34658",
+      "address": "35 Lakewood Blvd.",
+      "postal": "R2J 2M8"
+    }
+  },
+  "405": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Brandon",
+      "fax": "(204) 726-3303",
+      "name": "Wal-Mart Pharmacy #3004 ",
+      "license": " 12744",
+      "address": "903-18th Street N.",
+      "postal": "R7A 7S1"
+    }
+  },
+  "406": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Dauphin",
+      "fax": "(204) 638-0548",
+      "name": "Wal-Mart Pharmacy #3022 ",
+      "license": " 13138",
+      "address": "1450 Main Street South",
+      "postal": "R7N 3H4"
+    }
+  },
+  "407": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Portage La Prairie",
+      "fax": "(204) 857-8925",
+      "name": "Wal-Mart Pharmacy #3069 ",
+      "license": " 13127",
+      "address": "2348 Sissons Drive",
+      "postal": "R1N 0G5"
+    }
+  },
+  "408": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Thompson",
+      "fax": "(204) 778-4677",
+      "name": "Wal-Mart Pharmacy #3102 ",
+      "license": " 13149",
+      "address": "300 Mystery Lake Road, City Centre Mall",
+      "postal": "R8N 0M2"
+    }
+  },
+  "409": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 654-1443",
+      "name": "Wal-Mart Pharmacy #3107 ",
+      "license": " 12755",
+      "address": "1576 Regent Avenue W.",
+      "postal": "R2C 4B4"
+    }
+  },
+  "410": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 453-0911",
+      "name": "Wal-Mart Pharmacy #3116 ",
+      "license": " 12722",
+      "address": "1001 Empress Street",
+      "postal": "R3G 3P8"
+    }
+  },
+  "411": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 897-0571",
+      "name": "Wal-Mart Pharmacy #3117 ",
+      "license": " 12766",
+      "address": "3655 Portage Avenue",
+      "postal": "R3K 2G6"
+    }
+  },
+  "412": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 339-0410",
+      "name": "Wal-Mart Pharmacy #3118 ",
+      "license": " 12777",
+      "address": "2370 McPhillips Street",
+      "postal": "R2V 4S6"
+    }
+  },
+  "413": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 254-2048",
+      "name": "Wal-Mart Pharmacy #3119 ",
+      "license": " 12733",
+      "address": "1225 St. Mary's Road",
+      "postal": "R2M 5E6"
+    }
+  },
+  "414": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 488-1646",
+      "name": "Wal-Mart Pharmacy #3177 ",
+      "license": " 31891",
+      "address": "1665 Kenaston Blvd.",
+      "postal": "R3P 2M4"
+    }
+  },
+  "415": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Flin Flon",
+      "fax": "(204) 687-7683",
+      "name": "Wal-Mart Pharmacy #3660 ",
+      "license": " 32320",
+      "address": "200 P.T.H., #10A",
+      "postal": "R8A 0C6"
+    }
+  },
+  "416": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 694-7004",
+      "name": "Well-Being Pharmacy ",
+      "license": " 13206",
+      "address": "15-1030 Keewatin Street",
+      "postal": "R2R 2E2"
+    }
+  },
+  "417": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 775-9601",
+      "name": "West Broadway Pharmacy ",
+      "license": " 34388",
+      "address": "595 Broadway Avenue",
+      "postal": "R3C 0W6"
+    }
+  },
+  "418": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 339-1405",
+      "name": "West Kildonan Pharmacy Ltd. ",
+      "license": " 12632",
+      "address": "1750 Main Street",
+      "postal": "R2V 1Z7"
+    }
+  },
+  "419": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Brandon",
+      "fax": "(204) 727-3471",
+      "name": "West-Man Medical Centre Pharmacy ",
+      "license": " 11293",
+      "address": "146 - 6th Street",
+      "postal": "R7A 3N2"
+    }
+  },
+  "420": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Miami",
+      "fax": "(204) 435-2323",
+      "name": "Westaway Pharmacy ",
+      "license": " 12643",
+      "address": "445 Norton Avenue",
+      "postal": "R0G 1H0"
+    }
+  },
+  "421": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(877) 245-0734",
+      "name": "Westview Pharmacy ",
+      "license": " 34276",
+      "address": "7-1421 St. James Street",
+      "postal": "R3H 0Y9"
+    }
+  },
+  "422": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Brandon",
+      "fax": "(204) 727-1772",
+      "name": "Wheat City Pharmacy ",
+      "license": " 33400",
+      "address": "C1-1711 Kirkcaldy Drive",
+      "postal": "R7A 0B9"
+    }
+  },
+  "423": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Portage la Prairie",
+      "fax": "(204) 856-0226",
+      "name": "White Cross Pharmacy Portage la Prairie ",
+      "license": " 34760",
+      "address": "5006 Crescent Road West",
+      "postal": "R1N 0Y6"
+    }
+  },
+  "424": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 786-6743",
+      "name": "White Cross Pharmacy Wolseley ",
+      "license": " 33163",
+      "address": "647 Broadway Avenue",
+      "postal": "R3C 0X2"
+    }
+  },
+  "425": {
+    "pharmacy": {
+      "province": "",
+      "city": "Swan River",
+      "fax": "(204) 734-3244",
+      "name": "White's Drug Store ",
+      "license": " 12654",
+      "address": "700 Main Street",
+      "postal": "R0L 1Z0"
+    }
+  },
+  "426": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Whitemouth",
+      "fax": "(204) 348-3329",
+      "name": "Whitemouth Pharmacy ",
+      "license": " 31857",
+      "address": "159 Railway Avenue, P.O. Box 194",
+      "postal": "R0E 2G0"
+    }
+  },
+  "427": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Souris",
+      "fax": "(204) 483-2107",
+      "name": "Whitfield Drugs Souris (2002) Ltd. ",
+      "license": " 12665",
+      "address": "33 Crescent Avenue W., Box 100",
+      "postal": "R0K 2C0"
+    }
+  },
+  "428": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winkler",
+      "fax": "(204) 331-1395",
+      "name": "Winkler Pharmacy ",
+      "license": " 12687",
+      "address": "309 Main Street, Box 280",
+      "postal": "R6W 4A5"
+    }
+  },
+  "429": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg Beach",
+      "fax": "(204) 389-4509",
+      "name": "Winnipeg Beach Pharmacy ",
+      "license": " 34029",
+      "address": "Unit F, 54-60 Main Street",
+      "postal": "R0C 3G0"
+    }
+  },
+  "430": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 947-1306",
+      "name": "Winnipeg Clinic Pharmacy Ltd. ",
+      "license": " 12698",
+      "address": "425 St. Mary Avenue",
+      "postal": "R3C 0N2"
+    }
+  },
+  "431": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipegosis",
+      "fax": "(204) 656-4434",
+      "name": "Winnipegosis Clinic Pharmacy ",
+      "license": " 33578",
+      "address": "200-1st Street",
+      "postal": "R0L 2G0"
+    }
+  },
+  "432": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipegosis",
+      "fax": "(204) 629-3489",
+      "name": "Winnipegosis General Hospital Pharmacy ",
+      "license": " 12711",
+      "address": "230 Bridge Street",
+      "postal": "R0L 2G0"
+    }
+  },
+  "433": {
+    "pharmacy": {
+      "province": "Manitoba ",
+      "city": "Winnipeg",
+      "fax": "(204) 654-9505",
+      "name": "You! Drug Mart & You! Drug Store ",
+      "license": " 33826",
+      "address": "359 Johnson Avenue, Unit E",
+      "postal": "R2L 0J2"
+    }
+  }
+}
